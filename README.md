@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-06-24
+Last sync is 2019-06-25
 
 https://developers.google.com/ar/discover/supported-devices
 
