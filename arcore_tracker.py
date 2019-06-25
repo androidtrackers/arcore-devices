@@ -93,7 +93,7 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
-    system("git add devices* && git -c \"user.name=XiaomiFirmwareUpdater\" "
+    system("git add README.md devices.csv && git -c \"user.name=XiaomiFirmwareUpdater\" "
        "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
        ""git push -q https://{1}@github.com/androidtrackers/arcore-devices.git HEAD:master"
        .format(TODAY, GIT_OAUTH_TOKEN))
