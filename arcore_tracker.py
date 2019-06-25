@@ -72,7 +72,7 @@ def post_to_tg():
     for item in CHANGES[1:]:
         info = item.split(";")
         brand = info[0].replace('+', '')
-        name = info[1]
+        name = info[1].strip()
         telegram_message = f"New ARCore device added!:\nBrand: *{brand}*\nName: *{name}*"
         params = (
             ('chat_id', TG_CHAT),
@@ -93,10 +93,10 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
-    system(f"git add devices* && git -c \"user.name=XiaomiFirmwareUpdater\" "
-           f"-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {TODAY}\" && "" \
-           f""git push -q https://{GIT_OAUTH_TOKEN}@github.com/"" \
-           ""androidtrackers/arcore-devices.git HEAD:master")
+    system("git add devices* && git -c \"user.name=XiaomiFirmwareUpdater\" "
+       "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
+       ""git push -q https://{1}@github.com/androidtrackers/arcore-devices.git HEAD:master"
+       .format(TODAY, GIT_OAUTH_TOKEN))
 
 
 def main():
