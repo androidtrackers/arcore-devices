@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-06-26
+Last sync is 2019-06-29
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -55,6 +55,7 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 6, OnePlus 6T|
 |OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G|
 |Oppo|R17 Pro|
+|Oppo|Reno 10x Zoom|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
