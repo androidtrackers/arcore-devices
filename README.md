@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-06-29
+Last sync is 2019-07-20
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -101,6 +101,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
+|Vivo|NEX S|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Mi 8, Mi 8 SE|
