@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-07-27
+Last sync is 2019-08-09
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -34,6 +34,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|P30, P30 Pro|
 |Huawei|Porsche Design Mate RS, Porsche Design Mate 20 RS|
 |Huawei|Y9 2019|
+|Infinix Mobile|Note 6|
 |LG|G6|
 |LG|G7 Fit, G7 One, G7 ThinQ|
 |LG|G8 ThinQ|
@@ -80,8 +81,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1|
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
+|Tecno|Phantom 9|
 |Xiaomi|Mi 8, Mi 8 SE|
-|Xiaomi|Mi 9|
+|Xiaomi|Mi 9, Mi 9 SE|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Pocophone F1|
@@ -99,6 +101,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|P20, P20 Pro|
 |Huawei|P30, P30 Pro|
 |Huawei|Porsche Design Mate RS,  Porsche Design Mate 20 RS|
+|Oppo|Reno 10x Zoom|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
