@@ -25,7 +25,7 @@ Huawei;Nova 3, Nova 3i
 Huawei;Nova 4
 Huawei;P20, P20 Pro
 Huawei;P30, P30 Pro
-Huawei;Porsche Design Mate RS, Porsche Design Mate 20 RS
+Huawei;Porsche Design Mate RS,  Porsche Design Mate 20 RS
 Huawei;Y9 2019
 Infinix Mobile;Note 6
 LG;G6
@@ -37,13 +37,15 @@ LG;V30, V30+, V30+ JOJO,  LG Signature Edition 2017
 LG;V35 ThinQ,  LG Signature Edition 2018
 LG;V40 ThinQ
 LG;V50 ThinQ
-Motorola;Moto G5S Plus
-Motorola;Moto G6, Moto G6 Plus
-Motorola;Moto G7, Moto G7 Plus, Moto G7 Power, Moto G7 Play
-Motorola;Moto One, Moto One Power
-Motorola;Moto X4
-Motorola;Moto Z2 Force
-Motorola;Moto Z3, Moto Z3 Play
+Motorola;moto g⁵ˢ plus
+Motorola;moto g⁶, moto g⁶ plus
+Motorola;moto g⁷, moto g⁷ plus, moto g⁷ power, moto g⁷ play
+Motorola;motorola one, motorola one power
+Motorola;motorola one vision
+Motorola;moto x⁴
+Motorola;moto z² force
+Motorola;moto z³, moto z³ play
+Motorola;moto z⁴
 OnePlus;OnePlus 3T
 OnePlus;OnePlus 5, OnePlus 5T
 OnePlus;OnePlus 6, OnePlus 6T
@@ -65,7 +67,8 @@ Samsung;Galaxy S7, Galaxy S7 edge
 Samsung;Galaxy S8, Galaxy S8+
 Samsung;Galaxy S9, Galaxy S9+
 Samsung;Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G
-Samsung;Galaxy Tab S3, Galaxy Tab S4, Galaxy Tab S5e
+Samsung;Galaxy Tab S3
+Galaxy Tab S4, Galaxy Tab S5e;
 Sharp;AQUOS R3
 Sony;Xperia XZ Premium
 Sony;Xperia XZ1, Xperia XZ1 Compact
