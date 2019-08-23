@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-08-18
+Last sync is 2019-08-23
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -36,10 +36,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|Y9 2019|
 |Infinix Mobile|Note 6|
 |LG|G6|
-|LG|G7 Fit, G7 One, G7 ThinQ|
-|LG|G8 ThinQ|
+|LG|G7 Fit, G7 One|
+|LG|G7 ThinQ|
+|LG|G8 ThinQ, G8S ThinQ|
 |LG|Q6|
 |LG|Q8|
+|LG|style2|
+|LG|Stylo 5|
 |LG|V30, V30+, V30+ JOJO,  LG Signature Edition 2017|
 |LG|V35 ThinQ,  LG Signature Edition 2018|
 |LG|V40 ThinQ|
@@ -59,23 +62,25 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G|
 |Oppo|R17 Pro|
 |Oppo|Reno 10x Zoom|
-|Oppo|RealMe X Lite|
+|Oppo|realme X|
+|Oppo|realme X Lite|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
-|Samsung|Galaxy A7 (2017)|
+|Samsung|Galaxy A7 (2017), Samsung A7 (2018)|
 |Samsung|Galaxy A8, Galaxy A8+ (2018)|
 |Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A60, Galaxy A70, Galaxy A80|
 |Samsung|Galaxy J5 (2017), Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017), Galaxy J7 Pro|
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
+|Samsung|Galaxy Note10, Galaxy Note10+|
 |Samsung|Galaxy S7, Galaxy S7 edge|
 |Samsung|Galaxy S8, Galaxy S8+|
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
 |Samsung|Galaxy Tab S3|
-|Galaxy Tab S4, Galaxy Tab S5e||
+|Samsung|Galaxy Tab S4, Galaxy Tab S5e|
 |Sharp|AQUOS R3|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1, Xperia XZ1 Compact|
@@ -87,6 +92,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Tecno|Phantom 9|
 |Xiaomi|Mi 8, Mi 8 SE|
 |Xiaomi|Mi 9, Mi 9 SE|
+|Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Pocophone F1|
@@ -128,3 +134,4 @@ https://developers.google.com/ar/discover/supported-devices
 |iPad|9.7-in. iPad Pro|
 |iPad|iPad (6th Generation)|
 |iPad|iPad (5th Generation)|
+|iPod|iPod touch (7th Generation)|
