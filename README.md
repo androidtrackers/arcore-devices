@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-08-23
+Last sync is 2019-09-07
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -69,7 +69,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A6 (2018)|
 |Samsung|Galaxy A7 (2017), Samsung A7 (2018)|
 |Samsung|Galaxy A8, Galaxy A8+ (2018)|
-|Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A60, Galaxy A70, Galaxy A80|
+|Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A50s, Galaxy A60, Galaxy A70, Galaxy A80, Galaxy A90 5G|
 |Samsung|Galaxy J5 (2017), Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017), Galaxy J7 Pro|
 |Samsung|Galaxy Note8|
@@ -80,7 +80,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
 |Samsung|Galaxy Tab S3|
-|Samsung|Galaxy Tab S4, Galaxy Tab S5e|
+|Samsung|Galaxy Tab S4, Galaxy Tab S5e, Galaxy Tab S6|
 |Sharp|AQUOS R3|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1, Xperia XZ1 Compact|
