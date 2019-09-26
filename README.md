@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-09-22
+Last sync is 2019-09-26
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -50,8 +50,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶, moto g⁶ plus|
 |Motorola|moto g⁷, moto g⁷ plus, moto g⁷ power, moto g⁷ play|
-|Motorola|motorola one, motorola one power|
-|Motorola|motorola one vision|
+|Motorola|motorola one, motorola one action, motorola one power, motorola one vision, motorola one zoom|
 |Motorola|moto x⁴|
 |Motorola|moto z² force|
 |Motorola|moto z³, moto z³ play|
@@ -64,6 +63,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|realme X|
 |Oppo|realme X Lite|
 |Oppo|Reno 10x Zoom|
+|Oppo|Reno A|
 |Oppo|Reno Z|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
@@ -97,6 +97,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Pocophone F1|
+|Xiaomi|Redmi K20, Redmi K20 Pro|
+|Xiaomi|Redmi Note 7, Redmi Note 7 Pro|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
@@ -116,6 +118,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
+|Vivo|iQOO|
 |Vivo|NEX S|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
