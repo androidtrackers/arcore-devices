@@ -1,11 +1,10 @@
 # Google ARCore Supported devices
-Last sync is 2019-09-26
+Last sync is 2019-10-10
 
 https://developers.google.com/ar/discover/supported-devices
 
 |Brand|Device|
 |---|---|
-|Acer|Chromebook Tab 10|
 |Asus|ROG Phone, ROG Phone II|
 |Asus|Zenfone 6|
 |Asus|Zenfone AR|
