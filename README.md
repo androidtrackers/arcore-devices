@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-10-10
+Last sync is 2019-10-18
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -57,7 +57,7 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 3T|
 |OnePlus|OnePlus 5, OnePlus 5T|
 |OnePlus|OnePlus 6, OnePlus 6T|
-|OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G|
+|OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G, OnePlus 7T, OnePlus 7T Pro|
 |Oppo|R17 Pro|
 |Oppo|realme X|
 |Oppo|realme X Lite|
@@ -70,6 +70,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A7 (2017), Samsung A7 (2018)|
 |Samsung|Galaxy A8, Galaxy A8+ (2018)|
 |Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A50s, Galaxy A60, Galaxy A70, Galaxy A80, Galaxy A90 5G|
+|Samsung|Galaxy Fold|
 |Samsung|Galaxy J5 (2017), Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017), Galaxy J7 Pro|
 |Samsung|Galaxy Note8|
