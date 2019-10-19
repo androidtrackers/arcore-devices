@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-10-18
+Last sync is 2019-10-19
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -16,6 +16,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 2, Pixel 2 XL|
 |Google|Pixel 3, Pixel 3 XL|
 |Google|Pixel 3a, Pixel 3a XL|
+|Google|Pixel 4, Pixel 4 XL|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 7 Plus|
@@ -80,6 +81,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S8, Galaxy S8+|
 |Samsung|Galaxy S9, Galaxy S9+|
 |Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
+|Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
 |Samsung|Galaxy Tab S4, Galaxy Tab S5e, Galaxy Tab S6|
 |Sharp|AQUOS R3|
@@ -88,8 +90,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia XZ2, Xperia XZ2 Compact, Xperia XZ2 Premium|
 |Sony|Xperia XZ3|
 |Sony|Xperia 1|
+|Sony|Xperia 5|
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
+|Tecno|Camon 12 Pro|
 |Tecno|Phantom 9|
 |Xiaomi|Mi 8, Mi 8 SE|
 |Xiaomi|Mi 9, Mi 9 SE|
