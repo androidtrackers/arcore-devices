@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-10-19
+Last sync is 2019-10-29
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -60,15 +60,19 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 6, OnePlus 6T|
 |OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G, OnePlus 7T, OnePlus 7T Pro|
 |Oppo|R17 Pro|
+|Oppo|realme 5, realme 5 Pro|
+|Oppo|realme Q|
 |Oppo|realme X|
 |Oppo|realme X Lite|
+|Oppo|realme XT|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
-|Samsung|Galaxy A7 (2017), Samsung A7 (2018)|
+|Samsung|Galaxy A7 (2017)|
+|Samsung|Samsung A7 (2018)|
 |Samsung|Galaxy A8, Galaxy A8+ (2018)|
 |Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A50s, Galaxy A60, Galaxy A70, Galaxy A80, Galaxy A90 5G|
 |Samsung|Galaxy Fold|
@@ -91,10 +95,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia XZ3|
 |Sony|Xperia 1|
 |Sony|Xperia 5|
-|Vivo|NEX S|
-|Vivo|NEX Dual Display Edition|
 |Tecno|Camon 12 Pro|
 |Tecno|Phantom 9|
+|Vivo|NEX S|
+|Vivo|NEX Dual Display Edition|
+|Wiko|View 3 Pro|
 |Xiaomi|Mi 8, Mi 8 SE|
 |Xiaomi|Mi 9, Mi 9 SE|
 |Xiaomi|Mi A3|
@@ -128,6 +133,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Mi 8, Mi 8 SE|
 |Xiaomi|Mi 9|
+|iPhone|iPhone 11, 11 Pro, 11 Pro Max|
 |iPhone|iPhone XR|
 |iPhone|iPhone XS and XS Max|
 |iPhone|iPhone X|
@@ -141,6 +147,7 @@ https://developers.google.com/ar/discover/supported-devices
 |iPad|11-in. iPad Pro|
 |iPad|10.5-in. iPad Pro|
 |iPad|9.7-in. iPad Pro|
+|iPad|iPad (7th Generation)|
 |iPad|iPad (6th Generation)|
 |iPad|iPad (5th Generation)|
 |iPod|iPod touch (7th Generation)|
