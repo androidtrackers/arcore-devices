@@ -1,22 +1,28 @@
 # Google ARCore Supported devices
-Last sync is 2019-10-29
+Last sync is 2019-11-07
 
 https://developers.google.com/ar/discover/supported-devices
 
 |Brand|Device|
 |---|---|
-|Asus|ROG Phone, ROG Phone II|
+|Asus|ROG Phone|
+|Asus|ROG Phone II|
 |Asus|Zenfone 6|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
-|Google|Pixel, Pixel XL|
-|Google|Pixel 2, Pixel 2 XL|
-|Google|Pixel 3, Pixel 3 XL|
-|Google|Pixel 3a, Pixel 3a XL|
-|Google|Pixel 4, Pixel 4 XL|
+|Google|Pixel|
+|Google|Pixel XL|
+|Google|Pixel 2|
+|Google|Pixel 2 XL|
+|Google|Pixel 3|
+|Google|Pixel 3 XL|
+|Google|Pixel 3a|
+|Google|Pixel 3a XL|
+|Google|Pixel 4|
+|Google|Pixel 4 XL|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 7 Plus|
@@ -24,43 +30,73 @@ https://developers.google.com/ar/discover/supported-devices
 |HMD Global|Nokia 8|
 |HMD Global|Nokia 8 Sirocco|
 |HMD Global|Nokia 8.1|
-|Huawei|Honor 8X, Honor 10|
+|Huawei|Honor 8X|
+|Huawei|Honor 10|
 |Huawei|Honor View 10 Lite|
 |Huawei|Honor V20|
-|Huawei|Mate 20 Lite, Mate 20, Mate 20 Pro, Mate 20 X|
-|Huawei|Nova 3, Nova 3i|
+|Huawei|Mate 20 Lite|
+|Huawei|Mate 20|
+|Huawei|Mate 20 Pro|
+|Huawei|Mate 20 X|
+|Huawei|Nova 3|
+|Huawei|Nova 3i|
 |Huawei|Nova 4|
-|Huawei|P20, P20 Pro|
-|Huawei|P30, P30 Pro|
-|Huawei|Porsche Design Mate RS,  Porsche Design Mate 20 RS|
+|Huawei|P20|
+|Huawei|P20 Pro|
+|Huawei|P30|
+|Huawei|P30 Pro|
+|Huawei|Porsche Design Mate RS|
+|Huawei|Porsche Design Mate 20 RS|
 |Huawei|Y9 2019|
 |Infinix Mobile|Note 6|
 |LG|G6|
-|LG|G7 Fit, G7 One|
+|LG|G7 Fit|
+|LG|G7 One|
 |LG|G7 ThinQ|
-|LG|G8 ThinQ, G8S ThinQ|
+|LG|G8 ThinQ|
+|LG|G8S ThinQ|
 |LG|Q6|
 |LG|Q8|
 |LG|style2|
 |LG|Stylo 5|
-|LG|V30, V30+, V30+ JOJO,  LG Signature Edition 2017|
-|LG|V35 ThinQ,  LG Signature Edition 2018|
+|LG|V30|
+|LG|V30+|
+|LG|V30+ JOJO|
+|LG|LG Signature Edition 2017|
+|LG|V35 ThinQ|
+|LG|LG Signature Edition 2018|
 |LG|V40 ThinQ|
 |LG|V50 ThinQ|
 |Motorola|moto g⁵ˢ plus|
-|Motorola|moto g⁶, moto g⁶ plus|
-|Motorola|moto g⁷, moto g⁷ plus, moto g⁷ power, moto g⁷ play|
-|Motorola|motorola one, motorola one action, motorola one power, motorola one vision, motorola one zoom|
+|Motorola|moto g⁶|
+|Motorola|moto g⁶ plus|
+|Motorola|moto g⁷|
+|Motorola|moto g⁷ plus|
+|Motorola|moto g⁷ power|
+|Motorola|moto g⁷ play|
+|Motorola|motorola one|
+|Motorola|motorola one action|
+|Motorola|motorola one power|
+|Motorola|motorola one vision|
+|Motorola|motorola one zoom|
 |Motorola|moto x⁴|
 |Motorola|moto z² force|
-|Motorola|moto z³, moto z³ play|
+|Motorola|moto z³|
+|Motorola|moto z³ play|
 |Motorola|moto z⁴|
 |OnePlus|OnePlus 3T|
-|OnePlus|OnePlus 5, OnePlus 5T|
-|OnePlus|OnePlus 6, OnePlus 6T|
-|OnePlus|OnePlus 7, OnePlus 7 Pro, OnePlus 7 Pro 5G, OnePlus 7T, OnePlus 7T Pro|
+|OnePlus|OnePlus 5|
+|OnePlus|OnePlus 5T|
+|OnePlus|OnePlus 6|
+|OnePlus|OnePlus 6T|
+|OnePlus|OnePlus 7|
+|OnePlus|OnePlus 7 Pro|
+|OnePlus|OnePlus 7 Pro 5G|
+|OnePlus|OnePlus 7T|
+|OnePlus|OnePlus 7T Pro|
 |Oppo|R17 Pro|
-|Oppo|realme 5, realme 5 Pro|
+|Oppo|realme 5|
+|Oppo|realme 5 Pro|
 |Oppo|realme Q|
 |Oppo|realme X|
 |Oppo|realme X Lite|
@@ -73,25 +109,47 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A6 (2018)|
 |Samsung|Galaxy A7 (2017)|
 |Samsung|Samsung A7 (2018)|
-|Samsung|Galaxy A8, Galaxy A8+ (2018)|
-|Samsung|Galaxy A30, Galaxy A40, Galaxy A50, Galaxy A50s, Galaxy A60, Galaxy A70, Galaxy A80, Galaxy A90 5G|
+|Samsung|Galaxy A8|
+|Samsung|Galaxy A8+ (2018)|
+|Samsung|Galaxy A30|
+|Samsung|Galaxy A40|
+|Samsung|Galaxy A50|
+|Samsung|Galaxy A50s|
+|Samsung|Galaxy A60|
+|Samsung|Galaxy A70|
+|Samsung|Galaxy A80|
+|Samsung|Galaxy A90 5G|
 |Samsung|Galaxy Fold|
-|Samsung|Galaxy J5 (2017), Galaxy J5 Pro|
-|Samsung|Galaxy J7 (2017), Galaxy J7 Pro|
+|Samsung|Galaxy J5 (2017)|
+|Samsung|Galaxy J5 Pro|
+|Samsung|Galaxy J7 (2017)|
+|Samsung|Galaxy J7 Pro|
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
-|Samsung|Galaxy Note10, Galaxy Note10+|
-|Samsung|Galaxy S7, Galaxy S7 edge|
-|Samsung|Galaxy S8, Galaxy S8+|
-|Samsung|Galaxy S9, Galaxy S9+|
-|Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
+|Samsung|Galaxy Note10|
+|Samsung|Galaxy Note10+|
+|Samsung|Galaxy S7|
+|Samsung|Galaxy S7 edge|
+|Samsung|Galaxy S8|
+|Samsung|Galaxy S8+|
+|Samsung|Galaxy S9|
+|Samsung|Galaxy S9+|
+|Samsung|Galaxy S10e|
+|Samsung|Galaxy S10|
+|Samsung|Galaxy S10+|
+|Samsung|Galaxy S10 5G|
 |Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
-|Samsung|Galaxy Tab S4, Galaxy Tab S5e, Galaxy Tab S6|
+|Samsung|Galaxy Tab S4|
+|Samsung|Galaxy Tab S5e|
+|Samsung|Galaxy Tab S6|
 |Sharp|AQUOS R3|
 |Sony|Xperia XZ Premium|
-|Sony|Xperia XZ1, Xperia XZ1 Compact|
-|Sony|Xperia XZ2, Xperia XZ2 Compact, Xperia XZ2 Premium|
+|Sony|Xperia XZ1|
+|Sony|Xperia XZ1 Compact|
+|Sony|Xperia XZ2|
+|Sony|Xperia XZ2 Compact|
+|Sony|Xperia XZ2 Premium|
 |Sony|Xperia XZ3|
 |Sony|Xperia 1|
 |Sony|Xperia 5|
@@ -100,14 +158,18 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
 |Wiko|View 3 Pro|
-|Xiaomi|Mi 8, Mi 8 SE|
-|Xiaomi|Mi 9, Mi 9 SE|
+|Xiaomi|Mi 8|
+|Xiaomi|Mi 8 SE|
+|Xiaomi|Mi 9|
+|Xiaomi|Mi 9 SE|
 |Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Pocophone F1|
-|Xiaomi|Redmi K20, Redmi K20 Pro|
-|Xiaomi|Redmi Note 7, Redmi Note 7 Pro|
+|Xiaomi|Redmi K20|
+|Xiaomi|Redmi K20 Pro|
+|Xiaomi|Redmi Note 7|
+|Xiaomi|Redmi Note 7 Pro|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
@@ -116,24 +178,37 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|Honor Magic 2|
 |Huawei|Honor V20|
 |Huawei|Maimang 7|
-|Huawei|Mate 20, Mate 20 Pro, Mate 20 X|
-|Huawei|Nova 3, Nova 3i|
+|Huawei|Mate 20|
+|Huawei|Mate 20 Pro|
+|Huawei|Mate 20 X|
+|Huawei|Nova 3|
+|Huawei|Nova 3i|
 |Huawei|Nova 4|
-|Huawei|P20, P20 Pro|
-|Huawei|P30, P30 Pro|
-|Huawei|Porsche Design Mate RS,  Porsche Design Mate 20 RS|
+|Huawei|P20|
+|Huawei|P20 Pro|
+|Huawei|P30|
+|Huawei|P30 Pro|
+|Huawei|Porsche Design Mate RS|
+|Huawei|Porsche Design Mate 20 RS|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno Z|
 |Samsung|Galaxy Note9|
-|Samsung|Galaxy S9, Galaxy S9+|
-|Samsung|Galaxy S10e, Galaxy S10, Galaxy S10+, Galaxy S10 5G|
+|Samsung|Galaxy S9|
+|Samsung|Galaxy S9+|
+|Samsung|Galaxy S10e|
+|Samsung|Galaxy S10|
+|Samsung|Galaxy S10+|
+|Samsung|Galaxy S10 5G|
 |Vivo|iQOO|
 |Vivo|NEX S|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
-|Xiaomi|Mi 8, Mi 8 SE|
+|Xiaomi|Mi 8 SE|
+|Xiaomi|Mi 8 SE|
 |Xiaomi|Mi 9|
-|iPhone|iPhone 11, 11 Pro, 11 Pro Max|
+|iPhone|iPhone 11|
+|iPhone|11 Pro|
+|iPhone|11 Pro Max|
 |iPhone|iPhone XR|
 |iPhone|iPhone XS and XS Max|
 |iPhone|iPhone X|
@@ -143,7 +218,9 @@ https://developers.google.com/ar/discover/supported-devices
 |iPhone|iPhone SE|
 |iPad|iPad Air 3rd Generation|
 |iPad|iPad mini 5th Generation|
-|iPad|12.9-in. iPad Pro (1st, 2nd, and 3rd Generation)|
+|iPad|12.9-in. iPad Pro (1st Generation)|
+|iPad|12.9-in. iPad Pro (2nd Generation)|
+|iPad|12.9-in. iPad Pro (3rd Generation)|
 |iPad|11-in. iPad Pro|
 |iPad|10.5-in. iPad Pro|
 |iPad|9.7-in. iPad Pro|
