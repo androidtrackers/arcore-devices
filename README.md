@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-11-07
+Last sync is 2019-11-13
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -55,7 +55,9 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|G7 ThinQ|
 |LG|G8 ThinQ|
 |LG|G8S ThinQ|
+|LG|G8X ThinQ|
 |LG|Q6|
+|LG|Q70|
 |LG|Q8|
 |LG|style2|
 |LG|Stylo 5|
@@ -94,6 +96,8 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7 Pro 5G|
 |OnePlus|OnePlus 7T|
 |OnePlus|OnePlus 7T Pro|
+|Oppo|F11 Pro|
+|Oppo|K5|
 |Oppo|R17 Pro|
 |Oppo|realme 5|
 |Oppo|realme 5 Pro|
@@ -101,6 +105,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|realme X|
 |Oppo|realme X Lite|
 |Oppo|realme XT|
+|Oppo|realme X2|
+|Oppo|realme X2 Pro|
+|Oppo|Reno|
+|Oppo|Reno2|
+|Oppo|Reno2 Z|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
@@ -190,8 +199,18 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|P30 Pro|
 |Huawei|Porsche Design Mate RS|
 |Huawei|Porsche Design Mate 20 RS|
+|Oppo|K5|
+|Oppo|realme Q|
+|Oppo|realme X|
+|Oppo|realme X Lite|
+|Oppo|realme X2|
+|Oppo|realme X2 Pro|
+|Oppo|Reno|
 |Oppo|Reno 10x Zoom|
+|Oppo|Reno Ace|
 |Oppo|Reno Z|
+|Oppo|Reno2|
+|Oppo|Reno2 Z|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9|
 |Samsung|Galaxy S9+|
