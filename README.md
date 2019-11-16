@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-11-13
+Last sync is 2019-11-16
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -133,6 +133,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017)|
 |Samsung|Galaxy J7 Pro|
+|Samsung|Galaxy M30s|
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy Note10|
