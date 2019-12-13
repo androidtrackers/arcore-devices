@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-11-16
+Last sync is 2019-12-13
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -109,6 +109,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|realme X2 Pro|
 |Oppo|Reno|
 |Oppo|Reno2|
+|Oppo|Reno2 F|
 |Oppo|Reno2 Z|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
@@ -117,7 +118,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
 |Samsung|Galaxy A7 (2017)|
-|Samsung|Samsung A7 (2018)|
+|Samsung|Galaxy A7 (2018)|
 |Samsung|Galaxy A8|
 |Samsung|Galaxy A8+ (2018)|
 |Samsung|Galaxy A30|
@@ -154,6 +155,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S5e|
 |Samsung|Galaxy Tab S6|
 |Sharp|AQUOS R3|
+|Sharp|AQUOS sense3|
+|Sharp|AQUOS sense3 plus|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1|
 |Sony|Xperia XZ1 Compact|
