@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2019-12-13
+Last sync is 2020-02-07
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -49,6 +49,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|Porsche Design Mate 20 RS|
 |Huawei|Y9 2019|
 |Infinix Mobile|Note 6|
+|Kyocera|Torque G04|
 |LG|G6|
 |LG|G7 Fit|
 |LG|G7 One|
@@ -157,6 +158,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Sharp|AQUOS R3|
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 plus|
+|Sharp|AQUOS zero2|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1|
 |Sony|Xperia XZ1 Compact|
