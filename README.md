@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-02-07
+Last sync is 2020-03-21
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -57,6 +57,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|G8 ThinQ|
 |LG|G8S ThinQ|
 |LG|G8X ThinQ|
+|LG|G Pad 5 10.1 FHD|
 |LG|Q6|
 |LG|Q70|
 |LG|Q8|
@@ -70,15 +71,24 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|LG Signature Edition 2018|
 |LG|V40 ThinQ|
 |LG|V50 ThinQ|
+|LG|V60 ThinQ 5G|
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶|
 |Motorola|moto g⁶ plus|
 |Motorola|moto g⁷|
+|Motorola|moto g⁷ play|
 |Motorola|moto g⁷ plus|
 |Motorola|moto g⁷ power|
 |Motorola|moto g⁷ play|
+|Motorola|moto g⁸ play|
+|Motorola|moto g⁸ plus|
+|Motorola|moto g⁸ power|
+|Motorola|moto g⁸ power lite|
+|Motorola|moto g stylus|
 |Motorola|motorola one|
 |Motorola|motorola one action|
+|Motorola|motorola one hyper|
+|Motorola|motorola one macro|
 |Motorola|motorola one power|
 |Motorola|motorola one vision|
 |Motorola|motorola one zoom|
@@ -98,6 +108,7 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7T|
 |OnePlus|OnePlus 7T Pro|
 |Oppo|F11 Pro|
+|Oppo|K3|
 |Oppo|K5|
 |Oppo|R17 Pro|
 |Oppo|realme 5|
@@ -128,6 +139,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A50s|
 |Samsung|Galaxy A60|
 |Samsung|Galaxy A70|
+|Samsung|Galaxy A70s|
+|Samsung|Galaxy A71|
 |Samsung|Galaxy A80|
 |Samsung|Galaxy A90 5G|
 |Samsung|Galaxy Fold|
@@ -139,22 +152,33 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy Note10|
+|Samsung|Galaxy Note10 5G|
 |Samsung|Galaxy Note10+|
+|Samsung|Galaxy Note10+ 5G|
+|Samsung|Galaxy Note10 Lite|
 |Samsung|Galaxy S7|
 |Samsung|Galaxy S7 edge|
 |Samsung|Galaxy S8|
 |Samsung|Galaxy S8+|
-|Samsung|Galaxy S9|
-|Samsung|Galaxy S9+|
-|Samsung|Galaxy S10e|
-|Samsung|Galaxy S10|
-|Samsung|Galaxy S10+|
+|Samsung|Galaxy S9 Exynos|
+|Samsung|Galaxy S9 Qualcomm|
+|Samsung|Galaxy S9+ Exynos|
+|Samsung|Galaxy S9+ Qualcomm|
+|Samsung|Galaxy S10e Exynos|
+|Samsung|Galaxy S10e Qualcomm|
+|Samsung|Galaxy S10 Exynos|
+|Samsung|Galaxy S10 Qualcomm|
+|Samsung|Galaxy S10+ Exynos|
+|Samsung|Galaxy S10+ Qualcomm|
 |Samsung|Galaxy S10 5G|
+|Samsung|Galaxy S10 Lite|
 |Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
 |Samsung|Galaxy Tab S4|
 |Samsung|Galaxy Tab S5e|
 |Samsung|Galaxy Tab S6|
+|Samsung|Galaxy XCover Pro|
+|Samsung|Galaxy Z Flip|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 plus|
@@ -167,9 +191,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia XZ2 Premium|
 |Sony|Xperia XZ3|
 |Sony|Xperia 1|
+|Sony|Xperia 1 Professional Edition|
 |Sony|Xperia 5|
 |Tecno|Camon 12 Pro|
 |Tecno|Phantom 9|
+|Vivo|Nex 3|
+|Vivo|Nex 3 5G|
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
 |Wiko|View 3 Pro|
@@ -218,11 +245,16 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2|
 |Oppo|Reno2 Z|
 |Samsung|Galaxy Note9|
-|Samsung|Galaxy S9|
-|Samsung|Galaxy S9+|
-|Samsung|Galaxy S10e|
-|Samsung|Galaxy S10|
-|Samsung|Galaxy S10+|
+|Samsung|Galaxy S9 Exynos|
+|Samsung|Galaxy S9 Qualcomm|
+|Samsung|Galaxy S9+ Exynos|
+|Samsung|Galaxy S9+ Qualcomm|
+|Samsung|Galaxy S10e Exynos|
+|Samsung|Galaxy S10e Qualcomm|
+|Samsung|Galaxy S10 Exynos|
+|Samsung|Galaxy S10 Qualcomm|
+|Samsung|Galaxy S10+ Exynos|
+|Samsung|Galaxy S10+ Qualcomm|
 |Samsung|Galaxy S10 5G|
 |Vivo|iQOO|
 |Vivo|NEX S|
