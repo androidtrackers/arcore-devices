@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-03-21
+Last sync is 2020-03-26
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -83,7 +83,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ play|
 |Motorola|moto g⁸ plus|
 |Motorola|moto g⁸ power|
-|Motorola|moto g⁸ power lite|
 |Motorola|moto g stylus|
 |Motorola|motorola one|
 |Motorola|motorola one action|
