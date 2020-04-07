@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-03-26
+Last sync is 2020-04-07
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -25,8 +25,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 4 XL|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
+|HMD Global|Nokia 6.2|
 |HMD Global|Nokia 7 Plus|
 |HMD Global|Nokia 7.1|
+|HMD Global|Nokia 7.2|
 |HMD Global|Nokia 8|
 |HMD Global|Nokia 8 Sirocco|
 |HMD Global|Nokia 8.1|
@@ -80,6 +82,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁷ plus|
 |Motorola|moto g⁷ power|
 |Motorola|moto g⁷ play|
+|Motorola|moto g⁸|
 |Motorola|moto g⁸ play|
 |Motorola|moto g⁸ plus|
 |Motorola|moto g⁸ power|
@@ -107,6 +110,9 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7T|
 |OnePlus|OnePlus 7T Pro|
 |Oppo|F11 Pro|
+|Oppo|F15|
+|Oppo|Find X2|
+|Oppo|Find X2 Pro|
 |Oppo|K3|
 |Oppo|K5|
 |Oppo|R17 Pro|
@@ -122,6 +128,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2|
 |Oppo|Reno2 F|
 |Oppo|Reno2 Z|
+|Oppo|Reno3 Pro|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
@@ -147,7 +154,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017)|
 |Samsung|Galaxy J7 Pro|
+|Samsung|Galaxy M21|
 |Samsung|Galaxy M30s|
+|Samsung|Galaxy M31|
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy Note10|
@@ -180,8 +189,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Z Flip|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS sense3|
+|Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
 |Sharp|AQUOS zero2|
+|Sharp|S7|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1|
 |Sony|Xperia XZ1 Compact|
@@ -211,6 +222,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi K20 Pro|
 |Xiaomi|Redmi Note 7|
 |Xiaomi|Redmi Note 7 Pro|
+|Xiaomi|Redmi Note 8|
+|Xiaomi|Redmi Note 8 Pro|
+|Xiaomi|Redmi Note 8T|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
