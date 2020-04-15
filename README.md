@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-04-07
+Last sync is 2020-04-15
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -51,6 +51,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|Porsche Design Mate 20 RS|
 |Huawei|Y9 2019|
 |Infinix Mobile|Note 6|
+|Infinix Mobile|Note 7|
 |Kyocera|Torque G04|
 |LG|G6|
 |LG|G7 Fit|
@@ -109,6 +110,8 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7 Pro 5G|
 |OnePlus|OnePlus 7T|
 |OnePlus|OnePlus 7T Pro|
+|OnePlus|OnePlus 8|
+|OnePlus|OnePlus 8 Pro|
 |Oppo|F11 Pro|
 |Oppo|F15|
 |Oppo|Find X2|
@@ -143,10 +146,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A40|
 |Samsung|Galaxy A50|
 |Samsung|Galaxy A50s|
+|Samsung|Galaxy A51|
+|Samsung|Galaxy A51 5G|
 |Samsung|Galaxy A60|
 |Samsung|Galaxy A70|
 |Samsung|Galaxy A70s|
 |Samsung|Galaxy A71|
+|Samsung|Galaxy A71 5G|
 |Samsung|Galaxy A80|
 |Samsung|Galaxy A90 5G|
 |Samsung|Galaxy Fold|
