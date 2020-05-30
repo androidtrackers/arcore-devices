@@ -1,10 +1,11 @@
 # Google ARCore Supported devices
-Last sync is 2020-04-15
+Last sync is 2020-05-30
 
 https://developers.google.com/ar/discover/supported-devices
 
 |Brand|Device|
 |---|---|
+|Google|Any x86 or x86_64 based AVD|
 |Asus|ROG Phone|
 |Asus|ROG Phone II|
 |Asus|Zenfone 6|
@@ -61,6 +62,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|G8S ThinQ|
 |LG|G8X ThinQ|
 |LG|G Pad 5 10.1 FHD|
+|LG|K61|
 |LG|Q6|
 |LG|Q70|
 |LG|Q8|
@@ -74,6 +76,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|LG Signature Edition 2018|
 |LG|V40 ThinQ|
 |LG|V50 ThinQ|
+|LG|LG Signature Edition 2019|
 |LG|V60 ThinQ 5G|
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶|
@@ -87,7 +90,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ play|
 |Motorola|moto g⁸ plus|
 |Motorola|moto g⁸ power|
+|Motorola|moto g power|
 |Motorola|moto g stylus|
+|Motorola|motorola edge|
+|Motorola|motorola edge plus|
 |Motorola|motorola one|
 |Motorola|motorola one action|
 |Motorola|motorola one hyper|
@@ -121,6 +127,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|R17 Pro|
 |Oppo|realme 5|
 |Oppo|realme 5 Pro|
+|Oppo|realme 6|
+|Oppo|realme 6 Pro|
 |Oppo|realme Q|
 |Oppo|realme X|
 |Oppo|realme X Lite|
@@ -131,7 +139,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2|
 |Oppo|Reno2 F|
 |Oppo|Reno2 Z|
+|Oppo|Reno3|
+|Oppo|Reno3 5G|
 |Oppo|Reno3 Pro|
+|Oppo|Reno3 Pro 5G|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
@@ -143,7 +154,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A8|
 |Samsung|Galaxy A8+ (2018)|
 |Samsung|Galaxy A30|
+|Samsung|Galaxy A31|
 |Samsung|Galaxy A40|
+|Samsung|Galaxy A41|
 |Samsung|Galaxy A50|
 |Samsung|Galaxy A50s|
 |Samsung|Galaxy A51|
@@ -191,6 +204,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S4|
 |Samsung|Galaxy Tab S5e|
 |Samsung|Galaxy Tab S6|
+|Samsung|Galaxy Tab S6 Lite|
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
 |Sharp|AQUOS R3|
@@ -209,23 +223,31 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1|
 |Sony|Xperia 1 Professional Edition|
 |Sony|Xperia 5|
+|Sony|Xperia 1 II|
 |Tecno|Camon 12 Pro|
 |Tecno|Phantom 9|
 |Vivo|Nex 3|
 |Vivo|Nex 3 5G|
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
+|Vivo|iQOO 3 5G|
+|Vivo|iQOO Neo3 5G|
 |Wiko|View 3 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
 |Xiaomi|Mi 9|
 |Xiaomi|Mi 9 SE|
+|Xiaomi|Mi 10|
+|Xiaomi|Mi 10 Lite 5G|
+|Xiaomi|Mi 10 Pro|
 |Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Pocophone F1|
+|Xiaomi|Poco X2|
 |Xiaomi|Redmi K20|
 |Xiaomi|Redmi K20 Pro|
+|Xiaomi|Redmi K30|
 |Xiaomi|Redmi Note 7|
 |Xiaomi|Redmi Note 7 Pro|
 |Xiaomi|Redmi Note 8|
