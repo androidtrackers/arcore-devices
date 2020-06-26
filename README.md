@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-06-10
+Last sync is 2020-06-26
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -76,6 +76,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|LG Signature Edition 2018|
 |LG|V40 ThinQ|
 |LG|V50 ThinQ|
+|LG|V50S ThinQ|
 |LG|LG Signature Edition 2019|
 |LG|V60 ThinQ 5G|
 |Motorola|moto g⁵ˢ plus|
@@ -199,6 +200,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10+ Qualcomm|
 |Samsung|Galaxy S10 5G|
 |Samsung|Galaxy S10 Lite|
+|Samsung|Galaxy S20|
+|Samsung|Galaxy S20+ 5G|
+|Samsung|Galaxy S20 Ultra 5G|
 |Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
 |Samsung|Galaxy Tab S4|
