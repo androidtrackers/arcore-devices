@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-07-08
+Last sync is 2020-08-20
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -11,6 +11,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone 6|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
+|Fujitsu|F-51A|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -24,6 +25,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 3a XL|
 |Google|Pixel 4|
 |Google|Pixel 4 XL|
+|Google|Pixel 4a|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 6.2|
@@ -66,8 +68,11 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|Q6|
 |LG|Q70|
 |LG|Q8|
+|LG|Q92|
 |LG|style2|
+|LG|style3|
 |LG|Stylo 5|
+|LG|Stylo 6|
 |LG|V30|
 |LG|V30+|
 |LG|V30+ JOJO|
@@ -79,6 +84,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|V50S ThinQ|
 |LG|LG Signature Edition 2019|
 |LG|V60 ThinQ 5G|
+|LG|VELVET 5G|
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶|
 |Motorola|moto g⁶ plus|
@@ -91,7 +97,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ play|
 |Motorola|moto g⁸ plus|
 |Motorola|moto g⁸ power|
+|Motorola|moto g⁸ power lite|
 |Motorola|moto g power|
+|Motorola|moto g pro|
 |Motorola|moto g stylus|
 |Motorola|motorola edge|
 |Motorola|motorola edge plus|
@@ -119,6 +127,10 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7T Pro|
 |OnePlus|OnePlus 8|
 |OnePlus|OnePlus 8 Pro|
+|Oppo|A52|
+|Oppo|A72|
+|Oppo|A92|
+|Oppo|A92s|
 |Oppo|F11 Pro|
 |Oppo|F15|
 |Oppo|Find X2|
@@ -132,6 +144,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2 Z|
 |Oppo|Reno3|
 |Oppo|Reno3 5G|
+|Oppo|Reno3 A|
 |Oppo|Reno3 Pro|
 |Oppo|Reno3 Pro 5G|
 |Oppo|Reno 10x Zoom|
@@ -147,6 +160,8 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|XT|
 |realme|X2|
 |realme|X2 Pro|
+|realme|X50 Pro|
+|realme|X50t 5G|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
@@ -154,7 +169,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A7 (2018)|
 |Samsung|Galaxy A8|
 |Samsung|Galaxy A8+ (2018)|
+|Samsung|Galaxy A20|
+|Samsung|Galaxy A20s|
 |Samsung|Galaxy A30|
+|Samsung|Galaxy A30s|
 |Samsung|Galaxy A31|
 |Samsung|Galaxy A40|
 |Samsung|Galaxy A41|
@@ -177,6 +195,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy M21|
 |Samsung|Galaxy M30s|
 |Samsung|Galaxy M31|
+|Samsung|Galaxy M31s|
 |Samsung|Galaxy Note8|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy Note10|
@@ -211,7 +230,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S6 Lite|
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
+|Samsung|Galaxy Z Flip 5G|
 |Sharp|AQUOS R3|
+|Sharp|AQUOS R5G|
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
@@ -234,23 +255,30 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|Nex 3 5G|
 |Vivo|NEX S|
 |Vivo|NEX Dual Display Edition|
+|Vivo|iQOO 3 4G|
 |Vivo|iQOO 3 5G|
+|Vivo|X50|
+|Vivo|X50 Pro|
 |Wiko|View 3 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
 |Xiaomi|Mi 9|
+|Xiaomi|Mi 9 Lite|
 |Xiaomi|Mi 9 SE|
 |Xiaomi|Mi 10|
 |Xiaomi|Mi 10 Lite 5G|
+|Xiaomi|Mi 10 Lite Zoom|
 |Xiaomi|Mi 10 Pro|
 |Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
+|}Xiaomi|Mi Note 10|
 |Xiaomi|Pocophone F1|
 |Xiaomi|Poco X2|
 |Xiaomi|Redmi K20|
 |Xiaomi|Redmi K20 Pro|
 |Xiaomi|Redmi K30|
+|Xiaomi|Redmi K30 Pro|
 |Xiaomi|Redmi Note 7|
 |Xiaomi|Redmi Note 7 Pro|
 |Xiaomi|Redmi Note 8|
@@ -288,6 +316,7 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X Lite|
 |realme|X2|
 |realme|X2 Pro|
+|realme|X3|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9 Exynos|
 |Samsung|Galaxy S9 Qualcomm|
