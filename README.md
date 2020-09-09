@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-08-20
+Last sync is 2020-09-09
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -331,7 +331,15 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10 5G|
 |Vivo|iQOO|
 |Vivo|iQOO Neo3 5G|
+|Vivo|iQOO U1|
+|Vivo|iQOO Z1x|
 |Vivo|NEX S|
+|Vivo|S7 5G|
+|Vivo|X50 5G|
+|Vivo|X50 Pro|
+|Vivo|X50 Pro+|
+|Vivo|Y51s|
+|Vivo|Y70s|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Mi 8 SE|
