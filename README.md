@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-10-02
+Last sync is 2020-10-20
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -10,6 +10,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|ROG Phone II|
 |Asus|ROG Phone III|
 |Asus|Zenfone 6|
+|Asus|Zenfone 7/7 Pro|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
 |Fujitsu|Arrows 5G|
@@ -27,6 +28,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 4|
 |Google|Pixel 4 XL|
 |Google|Pixel 4a|
+|Google|Pixel 4a 5G|
+|Google|Pixel 5|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 6.2|
@@ -89,6 +92,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|LG Signature Edition 2019|
 |LG|V60 ThinQ 5G|
 |LG|VELVET 5G|
+|LG|WING 5G|
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶|
 |Motorola|moto g⁶ plus|
@@ -164,6 +168,7 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|6|
 |realme|6 Pro|
 |realme|7|
+|realme|7i|
 |realme|7 Pro|
 |realme|Narzo 20 Pro|
 |realme|Q|
@@ -173,6 +178,7 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X2|
 |realme|X2 Pro|
 |realme|X3 Super Zoom|
+|realme|X7 Pro 5G|
 |realme|X50 Pro|
 |realme|X50t 5G|
 |Samsung|Galaxy A3 (2017)|
@@ -184,6 +190,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A8+ (2018)|
 |Samsung|Galaxy A20|
 |Samsung|Galaxy A20s|
+|Samsung|Galaxy A20e|
 |Samsung|Galaxy A30|
 |Samsung|Galaxy A30s|
 |Samsung|Galaxy A31|
@@ -218,6 +225,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note10+|
 |Samsung|Galaxy Note10+ 5G|
 |Samsung|Galaxy Note10 Lite|
+|Samsung|Galaxy Note20 5G|
+|Samsung|Galaxy Note20 Ultra 5G|
 |Samsung|Galaxy S7|
 |Samsung|Galaxy S7 edge|
 |Samsung|Galaxy S8|
@@ -238,6 +247,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S20+ 5G|
 |Samsung|Galaxy S20 Fan Edition|
 |Samsung|Galaxy S20 Ultra 5G|
+|Samsung|Galaxy Tab A7|
 |Samsung|Galaxy Tab Active 3|
 |Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
@@ -256,6 +266,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
 |Sharp|AQUOS zero2|
+|Sharp|AQUOS zero5G basic|
+|Sharp|AQUOS zero5G basic DX|
 |Sharp|S7|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1|
@@ -266,8 +278,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia XZ3|
 |Sony|Xperia 1|
 |Sony|Xperia 1 Professional Edition|
-|Sony|Xperia 5|
 |Sony|Xperia 1 II|
+|Sony|Xperia 5|
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
@@ -311,6 +323,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 8 Pro|
 |Xiaomi|Redmi Note 8T|
 |Xiaomi|Redmi Note 9 Pro|
+|Xiaomi|Redmi Note 9S|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
@@ -345,6 +358,9 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X2|
 |realme|X2 Pro|
 |realme|X3|
+|realme|X7 5G|
+|realme|X7 Pro 5G|
+|realme|V5 5G|
 |Samsung|Galaxy Note9|
 |Samsung|Galaxy S9 Exynos|
 |Samsung|Galaxy S9 Qualcomm|
