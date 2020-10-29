@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-10-20
+Last sync is 2020-10-29
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -14,6 +14,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
 |Fujitsu|Arrows 5G|
+|Fujitsu|F52A|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -72,6 +73,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|G Pad 5 10.1 FHD|
 |LG|K61|
 |LG|K71|
+|LG|K92|
 |LG|Q6|
 |LG|Q70|
 |LG|Q8|
@@ -107,6 +109,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ power|
 |Motorola|moto g⁸ power lite|
 |Motorola|moto g⁹ play|
+|Motorola|moto g⁹ plus|
 |Motorola|moto g power|
 |Motorola|moto g pro|
 |Motorola|moto g stylus|
@@ -141,10 +144,12 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus Nord|
 |Oppo|A52|
 |Oppo|A72|
+|Oppo|A72 5G|
 |Oppo|A92|
 |Oppo|A92s|
 |Oppo|F11 Pro|
 |Oppo|F15|
+|Oppo|F17 Pro|
 |Oppo|Find X2|
 |Oppo|Find X2 Pro|
 |Oppo|K3|
@@ -265,6 +270,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
+|Sharp|AQUOS sense4|
+|Sharp|AQUOS sense4 basic|
+|Sharp|AQUOS sense4 lite|
 |Sharp|AQUOS zero2|
 |Sharp|AQUOS zero5G basic|
 |Sharp|AQUOS zero5G basic DX|
@@ -284,6 +292,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
 |Tecno|Phantom 9|
+|Umx(Ultimate Mobile Experience)|U3AR|
 |Vivo|Nex 3|
 |Vivo|Nex 3 5G|
 |Vivo|NEX S|
@@ -312,6 +321,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi Note 10 Lite|
 |Xiaomi|Pocophone F1|
 |Xiaomi|POCO X2|
+|Xiaomi|POCO X3|
+|Xiaomi|POCO X3 NFC|
 |Xiaomi|POCO M2 Pro|
 |Xiaomi|Redmi K20|
 |Xiaomi|Redmi K20 Pro|
@@ -323,6 +334,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 8 Pro|
 |Xiaomi|Redmi Note 8T|
 |Xiaomi|Redmi Note 9 Pro|
+|Xiaomi|Redmi Note 9 Pro Max|
 |Xiaomi|Redmi Note 9S|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
@@ -358,6 +370,7 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X2|
 |realme|X2 Pro|
 |realme|X3|
+|realme|X50 Pro Player|
 |realme|X7 5G|
 |realme|X7 Pro 5G|
 |realme|V5 5G|
