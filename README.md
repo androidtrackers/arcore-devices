@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-10-29
+Last sync is 2020-11-25
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -14,7 +14,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
 |Fujitsu|Arrows 5G|
-|Fujitsu|F52A|
+|Fujitsu|Arrows NX9 F-52A|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -31,6 +31,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 4a|
 |Google|Pixel 4a 5G|
 |Google|Pixel 5|
+|HMD Global|Nokia 3.4|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 6.2|
@@ -110,14 +111,17 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ power lite|
 |Motorola|moto g⁹ play|
 |Motorola|moto g⁹ plus|
+|Motorola|moto g 5G|
 |Motorola|moto g power|
 |Motorola|moto g pro|
 |Motorola|moto g stylus|
+|Motorola|moto g stylus (2020)|
 |Motorola|motorola edge|
 |Motorola|motorola edge plus|
 |Motorola|motorola one|
 |Motorola|motorola one 5G|
 |Motorola|motorola one action|
+|Motorola|motorola one fusion|
 |Motorola|motorola one fusion+|
 |Motorola|motorola one hyper|
 |Motorola|motorola one macro|
@@ -141,6 +145,7 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 7T Pro|
 |OnePlus|OnePlus 8|
 |OnePlus|OnePlus 8 Pro|
+|OnePlus|OnePlus 8T|
 |OnePlus|OnePlus Nord|
 |Oppo|A52|
 |Oppo|A72|
@@ -183,9 +188,11 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X2|
 |realme|X2 Pro|
 |realme|X3 Super Zoom|
+|realme|X7 5G|
 |realme|X7 Pro 5G|
 |realme|X50 Pro|
 |realme|X50t 5G|
+|realme|V5 5G|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
@@ -288,6 +295,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1 Professional Edition|
 |Sony|Xperia 1 II|
 |Sony|Xperia 5|
+|Sony|Xperia 5 II|
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
@@ -300,6 +308,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|iQOO 3 4G|
 |Vivo|iQOO 3 5G|
 |Vivo|V17|
+|Vivo|V20|
 |Vivo|X23|
 |Vivo|X50|
 |Vivo|X50 Pro|
@@ -314,6 +323,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi 10 Lite 5G|
 |Xiaomi|Mi 10 Lite Zoom|
 |Xiaomi|Mi 10 Pro|
+|Xiaomi|Mi 10T Pro|
 |Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
@@ -336,8 +346,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 9 Pro|
 |Xiaomi|Redmi Note 9 Pro Max|
 |Xiaomi|Redmi Note 9S|
+|Zebra|"ET51s 8"" Enterprise Tablet"|
+|Zebra|"ET56s 8"" Enterprise Tablet"|
 |Zebra|TC52 WLAN Touch Computer|
+|Zebra|TC52x WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
+|Zebra|TC57x WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
 |Zebra|TC77 WWAN Touch Computer|
 |Huawei|Honor 10|
@@ -387,6 +401,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10+ Qualcomm|
 |Samsung|Galaxy S10 5G|
 |Vivo|iQOO|
+|Vivo|iQOO 5 5G|
 |Vivo|iQOO Neo3 5G|
 |Vivo|iQOO U1|
 |Vivo|iQOO Z1x|
