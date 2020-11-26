@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-11-25
+Last sync is 2020-11-26
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -256,8 +256,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10 5G|
 |Samsung|Galaxy S10 Lite|
 |Samsung|Galaxy S20|
+|Samsung|Galaxy S20 5G|
+|Samsung|Galaxy S20+|
 |Samsung|Galaxy S20+ 5G|
 |Samsung|Galaxy S20 Fan Edition|
+|Samsung|Galaxy S20 Fan Edition 5G|
 |Samsung|Galaxy S20 Ultra 5G|
 |Samsung|Galaxy Tab A7|
 |Samsung|Galaxy Tab Active 3|
