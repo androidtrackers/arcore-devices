@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2020-11-26
+Last sync is 2020-12-10
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -32,6 +32,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 4a 5G|
 |Google|Pixel 5|
 |HMD Global|Nokia 3.4|
+|HMD Global|Nokia 5.4|
 |HMD Global|Nokia 6 (2018)|
 |HMD Global|Nokia 6.1 Plus|
 |HMD Global|Nokia 6.2|
@@ -111,6 +112,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁸ power lite|
 |Motorola|moto g⁹ play|
 |Motorola|moto g⁹ plus|
+|Motorola|moto g⁹ power|
 |Motorola|moto g 5G|
 |Motorola|moto g power|
 |Motorola|moto g pro|
@@ -225,6 +227,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017)|
 |Samsung|Galaxy J7 Pro|
+|Samsung|Galaxy M20|
 |Samsung|Galaxy M21|
 |Samsung|Galaxy M30s|
 |Samsung|Galaxy M31|
@@ -299,6 +302,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1 II|
 |Sony|Xperia 5|
 |Sony|Xperia 5 II|
+|TCL|10 5G UW|
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
@@ -312,6 +316,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|iQOO 3 5G|
 |Vivo|V17|
 |Vivo|V20|
+|Vivo|V20 Pro|
 |Vivo|X23|
 |Vivo|X50|
 |Vivo|X50 Pro|
@@ -382,6 +387,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2|
 |Oppo|Reno2 Z|
 |realme|Q|
+|realme|Q2 Pro 5G|
 |realme|X|
 |realme|X Lite|
 |realme|X2|
@@ -405,6 +411,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10 5G|
 |Vivo|iQOO|
 |Vivo|iQOO 5 5G|
+|Vivo|iQOO 5 Pro 5G|
 |Vivo|iQOO Neo3 5G|
 |Vivo|iQOO U1|
 |Vivo|iQOO Z1x|
