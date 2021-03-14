@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2021-03-13
+Last sync is 2021-03-14
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -13,10 +13,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone 7/7 Pro|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
-|Asus|Zenfone 8 Flip|
-|Asus|ROG Phone 5|
-|Fujitsu|arrows 5G F-51A|
-|Fujitsu|arrows NX9 F-52A|
+|Fujitsu|Arrows 5G|
+|Fujitsu|Arrows NX9 F-52A|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -100,7 +98,6 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|V60 ThinQ 5G|
 |LG|VELVET 5G|
 |LG|WING 5G|
-|LG|Stylo 7|
 |Motorola|moto g⁵ˢ plus|
 |Motorola|moto g⁶|
 |Motorola|moto g⁶ plus|
@@ -118,9 +115,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁹ plus|
 |Motorola|moto g⁹ power|
 |Motorola|moto g 5G|
-|Motorola|moto g(10)/Lenovo K13 Note|
-|Motorola|moto g(30)|
-|Motorola|moto g(100)|
 |Motorola|moto g power 2021|
 |Motorola|moto g power|
 |Motorola|moto g pro|
@@ -186,11 +180,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno3 Pro 5G|
 |Oppo|Reno4 4G|
 |Oppo|Reno 4 SE 5G|
-|Oppo|Reno 5 A|
 |Oppo|Reno 5 5G|
 |Oppo|Reno 5 Pro 4G|
 |Oppo|Reno 5 Pro 5G|
-|Oppo|Reno 5 Pro+ 5G Bosch|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
@@ -211,7 +203,6 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|X3 Super Zoom|
 |realme|X7 5G|
 |realme|X7 Pro 5G|
-|realme|realme 8 Pro|
 |realme|X50 Pro|
 |realme|X50t 5G|
 |realme|V5 5G|
@@ -305,12 +296,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
 |Samsung|Galaxy Z Flip 5G|
-|Samsung|A32 4G|
-|Samsung|A52 4G|
-|Samsung|A72 4G|
-|Samsung|A82 5G|
-|Samsung|F62|
-|Samsung|M62|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS R5G|
 |Sharp|AQUOS sense3|
@@ -339,7 +324,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 5 II|
 |Sony|Xperia PRO|
 |TCL|10 5G UW|
-|TCL|TCL 20 Pro5G|
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
@@ -359,7 +343,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50|
 |Vivo|X50 Pro|
 |Vivo|X50e 5G|
-|Vivo|X60 5G|
 |Wiko|View 3 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
@@ -388,7 +371,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi K20 Pro|
 |Xiaomi|Redmi K30|
 |Xiaomi|Redmi K30 Pro|
-|Xiaomi|Redmi K40 Pro/Pro+|
 |Xiaomi|Redmi Note 7|
 |Xiaomi|Redmi Note 7 Pro|
 |Xiaomi|Redmi Note 8|
@@ -406,11 +388,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Zebra|TC57x WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
 |Zebra|TC77 WWAN Touch Computer|
-|Zebra|Zebra TC21 WLAN Touch Computer|
-|Zebra|Zebra TC26 WWAN Touch Computer|
-|Zebra|Zebra EC50 WLAN Enterprise Computer|
-|Zebra|Zebra EC55 WWAN Enterprise Computer|
-|ZTE|Z6650S|
 |Huawei|Honor 10|
 |Huawei|Honor Magic 2|
 |Huawei|Honor V20|
@@ -427,7 +404,6 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|P30 Pro|
 |Huawei|Porsche Design Mate RS|
 |Huawei|Porsche Design Mate 20 RS|
-|Oppo|A53 5G|
 |Oppo|A93 5G|
 |Oppo|Find X3|
 |Oppo|Find X3 Pro|
@@ -443,10 +419,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno2 Z|
 |Oppo|Reno 4 SE 5G|
 |Oppo|Reno 5 5G|
-|Oppo|Reno 5 k 5G|
 |Oppo|Reno 5 Pro 4G|
 |Oppo|Reno 5 Pro 5G|
-|Oppo|Reno 5 Pro+ 5G Bosch|
 |realme|Q|
 |realme|Q2 Pro 5G|
 |realme|X|

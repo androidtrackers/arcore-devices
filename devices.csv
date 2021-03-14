@@ -6,10 +6,8 @@ Asus;Zenfone 6;
 Asus;Zenfone 7/7 Pro;Supports Depth API
 Asus;Zenfone AR;
 Asus;Zenfone ARES;
-Asus;Zenfone 8 Flip;
-Asus;ROG Phone 5;Supports Depth API
-Fujitsu;arrows 5G F-51A;Supports Depth API
-Fujitsu;arrows NX9 F-52A;Supports Depth API
+Fujitsu;Arrows 5G;Supports Depth API
+Fujitsu;Arrows NX9 F-52A;Supports Depth API
 General Mobile;GM 9 Plus;
 Google;Nexus 5X;Requires Android 8.0 or laterNot currently included in the CSV file provided by the Google Play Console
 Google;Nexus 6P;Requires Android 8.0 or later
@@ -93,7 +91,6 @@ LG;LG Signature Edition 2019;Supports multiple GPU texture resolutions - 1080p, 
 LG;V60 ThinQ 5G;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth APISupports time-of-flight (ToF) hardware depth sensor
 LG;VELVET 5G;Supports Depth API
 LG;WING 5G;Supports Depth API
-LG;Stylo 7;Supports Depth API
 Motorola;moto g⁵ˢ plus;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Motorola;moto g⁶;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Motorola;moto g⁶ plus;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
@@ -111,9 +108,6 @@ Motorola;moto g⁹ play;
 Motorola;moto g⁹ plus;Supports Depth API
 Motorola;moto g⁹ power;Supports Depth API
 Motorola;moto g 5G;Supports Depth API
-Motorola;moto g(10)/Lenovo K13 Note;
-Motorola;moto g(30);
-Motorola;moto g(100);Supports Depth API
 Motorola;moto g power 2021;Supports Depth API
 Motorola;moto g power;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Motorola;moto g pro;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
@@ -179,11 +173,9 @@ Oppo;Reno3 Pro;
 Oppo;Reno3 Pro 5G;
 Oppo;Reno4 4G;
 Oppo;Reno 4 SE 5G;Supports Depth API
-Oppo;Reno 5 A;Supports Depth API
 Oppo;Reno 5 5G;
 Oppo;Reno 5 Pro 4G;
 Oppo;Reno 5 Pro 5G;Supports Depth API
-Oppo;Reno 5 Pro+ 5G Bosch;Supports Depth API
 Oppo;Reno 10x Zoom;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480p
 Oppo;Reno A;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Oppo;Reno Z;
@@ -204,7 +196,6 @@ realme;X2 Pro;
 realme;X3 Super Zoom;
 realme;X7 5G;
 realme;X7 Pro 5G;
-realme;realme 8 Pro;Supports Depth API
 realme;X50 Pro;
 realme;X50t 5G;
 realme;V5 5G;
@@ -298,12 +289,6 @@ Samsung;Galaxy Tab S7+;Supports Depth API
 Samsung;Galaxy XCover Pro;
 Samsung;Galaxy Z Flip;
 Samsung;Galaxy Z Flip 5G;Supports Depth API
-Samsung;A32 4G;
-Samsung;A52 4G;Supports Depth API
-Samsung;A72 4G;Supports Depth API
-Samsung;A82 5G;Supports Depth API
-Samsung;F62;
-Samsung;M62;
 Sharp;AQUOS R3;
 Sharp;AQUOS R5G;
 Sharp;AQUOS sense3;
@@ -332,7 +317,6 @@ Sony;Xperia 5;Supports Depth API
 Sony;Xperia 5 II;Supports Depth API
 Sony;Xperia PRO;Supports Depth API
 TCL;10 5G UW;Supports Depth API
-TCL;TCL 20 Pro5G;
 Tecno;Camon 12 Pro;
 Tecno;Camon 16 Premier;
 Tecno;Camon 16 Pro;
@@ -352,7 +336,6 @@ Vivo;X23;
 Vivo;X50;
 Vivo;X50 Pro;
 Vivo;X50e 5G;
-Vivo;X60 5G;Supports Depth API
 Wiko;View 3 Pro;
 Xiaomi;Mi 8;
 Xiaomi;Mi 8 SE;
@@ -381,7 +364,6 @@ Xiaomi;Redmi K20;
 Xiaomi;Redmi K20 Pro;
 Xiaomi;Redmi K30;4G version only
 Xiaomi;Redmi K30 Pro;
-Xiaomi;Redmi K40 Pro/Pro+;Supports Depth API
 Xiaomi;Redmi Note 7;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Xiaomi;Redmi Note 7 Pro;
 Xiaomi;Redmi Note 8;
@@ -399,11 +381,6 @@ Zebra;TC57 WWAN Touch Computer;
 Zebra;TC57x WWAN Touch Computer;Supports Depth API
 Zebra;TC72 WLAN Touch Computer;
 Zebra;TC77 WWAN Touch Computer;
-Zebra;Zebra TC21 WLAN Touch Computer;
-Zebra;Zebra TC26 WWAN Touch Computer;
-Zebra;Zebra EC50 WLAN Enterprise Computer;
-Zebra;Zebra EC55 WWAN Enterprise Computer;
-ZTE;Z6650S;
 Huawei;Honor 10;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth API
 Huawei;Honor Magic 2;
 Huawei;Honor V20;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480p
@@ -420,7 +397,6 @@ Huawei;P30;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480p
 Huawei;P30 Pro;Supports multiple GPU texture resolutions - 2048x1536, 1280x960, 480pSupports Depth API
 Huawei;Porsche Design Mate RS;
 Huawei;Porsche Design Mate 20 RS;
-Oppo;A53 5G;
 Oppo;A93 5G;
 Oppo;Find X3;Supports Depth API
 Oppo;Find X3 Pro;Supports Depth API
@@ -436,10 +412,8 @@ Oppo;Reno2;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480p
 Oppo;Reno2 Z;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Oppo;Reno 4 SE 5G;Supports Depth API
 Oppo;Reno 5 5G;
-Oppo;Reno 5 k 5G;
 Oppo;Reno 5 Pro 4G;
 Oppo;Reno 5 Pro 5G;Supports Depth API
-Oppo;Reno 5 Pro+ 5G Bosch;Supports Depth API
 realme;Q;
 realme;Q2 Pro 5G;
 realme;X;
