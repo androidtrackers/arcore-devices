@@ -6,8 +6,8 @@ Asus;Zenfone 6;
 Asus;Zenfone 7/7 Pro;Supports Depth API
 Asus;Zenfone AR;
 Asus;Zenfone ARES;
-Fujitsu;Arrows 5G;Supports Depth API
-Fujitsu;Arrows NX9 F-52A;Supports Depth API
+Fujitsu;arrows 5G F-51A;Supports Depth API
+Fujitsu;arrows NX9 F-52A;Supports Depth API
 General Mobile;GM 9 Plus;
 Google;Nexus 5X;Requires Android 8.0 or laterNot currently included in the CSV file provided by the Google Play Console
 Google;Nexus 6P;Requires Android 8.0 or later
@@ -58,6 +58,7 @@ Huawei;Y9 2019;
 Infinix Mobile;Note 6;
 Infinix Mobile;Note 7;
 Infinix Mobile;Zero 8;
+Kyocera;DuraForce Ultra 5G UW;
 Kyocera;Torque G04;
 LG;G6;Requires Android 8.0 or later
 LG;G7 Fit;
@@ -381,6 +382,7 @@ Zebra;TC57 WWAN Touch Computer;
 Zebra;TC57x WWAN Touch Computer;Supports Depth API
 Zebra;TC72 WLAN Touch Computer;
 Zebra;TC77 WWAN Touch Computer;
+ZTE;Libero 5G;
 Huawei;Honor 10;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth API
 Huawei;Honor Magic 2;
 Huawei;Honor V20;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480p

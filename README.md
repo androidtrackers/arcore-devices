@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2021-03-14
+Last sync is 2021-04-01
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -13,8 +13,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone 7/7 Pro|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
-|Fujitsu|Arrows 5G|
-|Fujitsu|Arrows NX9 F-52A|
+|Fujitsu|arrows 5G F-51A|
+|Fujitsu|arrows NX9 F-52A|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -65,6 +65,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Infinix Mobile|Note 6|
 |Infinix Mobile|Note 7|
 |Infinix Mobile|Zero 8|
+|Kyocera|DuraForce Ultra 5G UW|
 |Kyocera|Torque G04|
 |LG|G6|
 |LG|G7 Fit|
@@ -388,6 +389,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Zebra|TC57x WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
 |Zebra|TC77 WWAN Touch Computer|
+|ZTE|Libero 5G|
 |Huawei|Honor 10|
 |Huawei|Honor Magic 2|
 |Huawei|Honor V20|
