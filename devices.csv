@@ -435,7 +435,7 @@ Samsung;Galaxy S9+ Qualcomm;Supports multiple GPU texture resolutions - 2048x153
 Samsung;Galaxy S10e Exynos;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth API
 Samsung;Galaxy S10e Qualcomm;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth API
 Samsung;Galaxy S10 Exynos;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth API
-Samsung;Galaxy S10 Qualcomm;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth APISupports Depth API
+Samsung;Galaxy S10 Qualcomm;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth API
 Samsung;Galaxy S10+ Exynos;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth API
 Samsung;Galaxy S10+ Qualcomm;Supports multiple GPU texture resolutions - 1440x1080, 1280x960, 480pSupports Depth API
 Samsung;Galaxy S10 5G;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth APISupports time-of-flight (ToF) hardware depth sensor
