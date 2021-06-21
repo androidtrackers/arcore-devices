@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2021-04-30
+Last sync is 2021-06-21
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -66,9 +66,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Infinix Mobile|Note 6|
 |Infinix Mobile|Note 7|
 |Infinix Mobile|Zero 8|
-|Kyocera|DuraForce Ultra 5G UW|
+|Infinix Mobile|Note 10 Pro|
+|Kyocera|Torque 5G|
 |Kyocera|Torque G04|
 |Lenovo|Lenovo K13 Note|
+|Lenovo|Lenovo Tab P11 Pro|
+|LitByLeia|Lume Pad|
 |LG|G6|
 |LG|G7 Fit|
 |LG|G7 One|
@@ -88,6 +91,7 @@ https://developers.google.com/ar/discover/supported-devices
 |LG|style3|
 |LG|Stylo 5|
 |LG|Stylo 6|
+|LG|Stylo 7|
 |LG|V30|
 |LG|V30+|
 |LG|V30+ JOJO|
@@ -126,6 +130,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g stylus (2020)|
 |Motorola|moto g(30)|
 |Motorola|moto g(10)|
+|Motorola|moto g(50)|
+|Motorola|moto g(100)|
 |Motorola|motorola edge|
 |Motorola|motorola edge s|
 |Motorola|motorola edge plus|
@@ -157,6 +163,9 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 8|
 |OnePlus|OnePlus 8 Pro|
 |OnePlus|OnePlus 8T|
+|OnePlus|OnePlus 9|
+|OnePlus|OnePlus 9 Pro|
+|OnePlus|OnePlus 9R|
 |OnePlus|OnePlus Nord|
 |OnePlus|OnePlus N10|
 |Oppo|A52|
@@ -192,6 +201,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno5 Pro 4G|
 |Oppo|Reno5 Pro 5G|
 |Oppo|Reno5 Pro+ 5G|
+|Oppo|Reno6 Pro+ 5G|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
@@ -227,6 +237,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A20|
 |Samsung|Galaxy A20s|
 |Samsung|Galaxy A20e|
+|Samsung|Galaxy A22 5G|
 |Samsung|Galaxy A30|
 |Samsung|Galaxy A30s|
 |Samsung|Galaxy A31|
@@ -245,6 +256,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A70|
 |Samsung|Galaxy A70s|
 |Samsung|Galaxy A71|
+|Samsung|Galaxy A72|
 |Samsung|Galaxy A71 5G|
 |Samsung|Galaxy A80|
 |Samsung|Galaxy A90 5G|
@@ -272,6 +284,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note10 Lite|
 |Samsung|Galaxy Note20 5G|
 |Samsung|Galaxy Note20 Ultra 5G|
+|Samsung|Galaxy Quantum2|
 |Samsung|Galaxy S7|
 |Samsung|Galaxy S7 edge|
 |Samsung|Galaxy S8|
@@ -308,11 +321,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S6 Lite|
 |Samsung|Galaxy Tab S7|
 |Samsung|Galaxy Tab S7+|
+|Samsung|Galaxy Tab S7+ Lite|
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
 |Samsung|Galaxy Z Flip 5G|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS R5G|
+|Sharp|AQUOS R6|
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
@@ -335,6 +350,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1|
 |Sony|Xperia 1 Professional Edition|
 |Sony|Xperia 1 II|
+|Sony|Xperia 1 III|
 |Sony|Xperia 5|
 |Sony|Xperia 5 II|
 |Sony|Xperia PRO|
@@ -342,9 +358,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
+|Tecno|Camon 17 Pro|
 |Tecno|Phantom 9|
+|Tecno|Phantom X Pro|
+|Tecno|Pova 2|
 |Umx(Ultimate Mobile Experience)|U3AR|
 |Vinsmart|Live 4|
+|Vinsmart|Aris Pro|
 |Vivo|Nex 3|
 |Vivo|Nex 3 5G|
 |Vivo|NEX S|
@@ -359,6 +379,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50 Pro|
 |Vivo|X50e 5G|
 |Vivo|X60 Pro|
+|Vivo|V2041|
+|Vivo|V2045|
+|Vivo|V2046|
+|Vivo|V2050|
 |Wiko|View 3 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
@@ -373,11 +397,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi 10 Pro|
 |Xiaomi|Mi 10T Pro|
 |Xiaomi|Mi 11|
+|Xiaomi|Mi 11 Pro|
 |Xiaomi|Mi A3|
 |Xiaomi|Mi Mix 2S|
 |Xiaomi|Mi Mix 3|
 |Xiaomi|Mi Note 10|
 |Xiaomi|Mi Note 10 Lite|
+|Xiaomi|Mi Note 11 Lite 5G|
 |Xiaomi|Pocophone F1|
 |Xiaomi|POCO X2|
 |Xiaomi|POCO X3|
@@ -397,8 +423,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 9 Pro Max|
 |Xiaomi|Redmi Note 9S|
 |Xiaomi|Redmi Note 9 (5G)|
+|Xiaomi|Redmi Note 10|
+|Xiaomi|Redmi Note 10 Pro|
 |Zebra|"ET51s 8"" Enterprise Tablet"|
 |Zebra|"ET56s 8"" Enterprise Tablet"|
+|Zebra|"ET56 10"" Enterprise Tablet"|
 |Zebra|TC21 WLAN Touch Computer|
 |Zebra|TC26 WWAN Touch Computer|
 |Zebra|EC50 WLAN Enterprise Computer|
@@ -433,6 +462,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|F19 Pro+|
 |Oppo|K5|
 |Oppo|K7x|
+|Oppo|K9 5G|
 |Oppo|Reno|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno Ace|
@@ -446,8 +476,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno5 Pro 4G|
 |Oppo|Reno5 Pro 5G|
 |Oppo|Reno5 Pro+ 5G|
+|Oppo|Reno6 Pro+ 5G|
 |realme|Q|
 |realme|Q2 Pro 5G|
+|realme|Q3 5G|
 |realme|X|
 |realme|X Lite|
 |realme|X2|
@@ -482,6 +514,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50 5G|
 |Vivo|X50 Pro|
 |Vivo|X50 Pro+|
+|Vivo|V2046A|
+|Vivo|V2047A|
 |Vivo|Y51s|
 |Vivo|Y70s|
 |Xiaomi|Mi Mix 2S|
