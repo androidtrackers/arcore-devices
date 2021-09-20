@@ -60,12 +60,15 @@ Huawei;Y9 2019;
 Infinix Mobile;Note 6;
 Infinix Mobile;Note 7;
 Infinix Mobile;Zero 8;
+Infinix Mobile;Zero X Neo;Supports Depth API
 Infinix Mobile;Note 10 Pro;
 Kyocera;Torque 5G;Supports Depth API
 Kyocera;Torque G04;
+Kyocera;DuraForce Ultra 5G;
 Lenovo;Lenovo K13 Note;
 Lenovo;Lenovo Tab P11 Pro;Supports Depth API
 Lenovo;Lenovo Tab P11 5G;Supports Depth API
+Lenovo;Lenovo Tab P12 Pro;Supports Depth API
 Lenovo;Lenovo Yoga Tab 11;Supports Depth API
 LitByLeia;Lume Pad;Supports Depth API
 LG;G6;Requires Android 8.0 or later
@@ -130,11 +133,15 @@ Motorola;moto g(30);
 Motorola;moto g(40) fusion;
 Motorola;moto g(10);
 Motorola;moto g(50);
+Motorola;moto g(50) 5G;Supports Depth API
 Motorola;moto g(60);
+Motorola;moto g(60)s;
 Motorola;moto g(100);Supports Depth API
 Motorola;motorola edge;Supports Depth API
 Motorola;motorola edge s;Supports Depth API
 Motorola;motorola edge plus;Supports Depth API
+Motorola;motorola edge 20;Supports Depth API
+Motorola;motorola edge 20 lite;Supports Depth API
 Motorola;motorola one;
 Motorola;motorola one 5G;Supports Depth API
 Motorola;motorola one action;
@@ -259,19 +266,21 @@ Samsung;Galaxy A51;
 Samsung;Galaxy A51 5G;Supports Depth API
 Samsung;Galaxy A52;Supports Depth API
 Samsung;Galaxy A52 5G;Supports Depth API
+Samsung;Galaxy A52s 5G;Supports Depth API
 Samsung;Galaxy A60;
 Samsung;Galaxy A70;
 Samsung;Galaxy A70s;Requires Android 10 or later
 Samsung;Galaxy A71;
 Samsung;Galaxy A72;Supports Depth API
 Samsung;Galaxy A71 5G;Supports Depth API
-Samsung;Galaxy A80;Supports Depth APISupports time-of-flight (ToF) hardware depth sensor
+Samsung;Galaxy A80;Supports Depth API
 Samsung;Galaxy A90 5G;Supports Depth API
 Samsung;Galaxy F22;
 Samsung;Galaxy F41;
 Samsung;Galaxy F62;
 Samsung;Galaxy Fold;Supports Depth API
 Samsung;Galaxy Z Fold2 5G;Supports Depth API
+Samsung;Galaxy Z Fold3 5G;Supports Depth API
 Samsung;Galaxy J5 (2017);SM-J530 modelsSome models only support OpenGL ES 3.0 and earlierSupports multiple GPU texture resolutions - 960x720, 480p
 Samsung;Galaxy J5 Pro;SM-J530 modelsSome models only support OpenGL ES 3.0 and earlierSupports multiple GPU texture resolutions - 960x720, 480p
 Samsung;Galaxy J7 (2017);SM-J730 modelsSome models only support OpenGL ES 3.0 and earlierCertain models only support OpenGL ES 3.1 and earlier
@@ -294,6 +303,7 @@ Samsung;Galaxy Note10 Lite;Supports Depth API
 Samsung;Galaxy Note20 5G;Supports Depth API
 Samsung;Galaxy Note20 Ultra 5G;Supports Depth API
 Samsung;Galaxy Quantum2;Supports Depth API
+Samsung;Galaxy Wide5;
 Samsung;Galaxy S7;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Samsung;Galaxy S7 edge;Supports multiple GPU texture resolutions - 1080p, 720p, 480p
 Samsung;Galaxy S8;Supports multiple GPU texture resolutions - 1080p, 720p, 480pSupports Depth API
@@ -320,6 +330,7 @@ Samsung;Galaxy S20 Ultra 5G;Supports Depth APISupports time-of-flight (ToF) hard
 Samsung;Galaxy S21 5G;Supports Depth API
 Samsung;Galaxy S21+ 5G;Supports Depth API
 Samsung;Galaxy S21 Ultra 5G;Supports Depth API
+Samsung;Galaxy S21 Fan Edition;Supports Depth API
 Samsung;Galaxy Tab A7;
 Samsung;Galaxy Tab Active 3;
 Samsung;Galaxy Tab Active Pro;
@@ -330,10 +341,11 @@ Samsung;Galaxy Tab S6;
 Samsung;Galaxy Tab S6 Lite;
 Samsung;Galaxy Tab S7;Supports Depth API
 Samsung;Galaxy Tab S7+;Supports Depth API
-Samsung;Galaxy Tab S7+ Lite;Supports Depth API
+Samsung;Galaxy Tab S7 FE;Supports Depth API
 Samsung;Galaxy XCover Pro;
 Samsung;Galaxy Z Flip;Supports Depth API
 Samsung;Galaxy Z Flip 5G;Supports Depth API
+Samsung;Galaxy Z Flip2 5G;Supports Depth API
 Sharp;AQUOS R3;Supports Depth API
 Sharp;AQUOS R5G;Supports Depth API
 Sharp;AQUOS R6;Supports Depth API
@@ -370,8 +382,9 @@ TCL;10 5G UW;Supports Depth API
 Tecno;Camon 12 Pro;
 Tecno;Camon 16 Premier;
 Tecno;Camon 16 Pro;
-Tecno;Camon 17 Pro;
+Tecno;Camon 17 Pro;Supports Depth API
 Tecno;Phantom 9;
+Tecno;Phantom X;
 Tecno;Phantom X Pro;
 Tecno;Pova 2;
 Umx(Ultimate Mobile Experience);U3AR;Device without Front Camera, doesn't support ARCore Front Camera
@@ -391,11 +404,13 @@ Vivo;X50;
 Vivo;X50 Pro;
 Vivo;X50e 5G;
 Vivo;X60 Pro;Supports Depth API
+Vivo;X60 Pro+;Supports Depth API
 Vivo;I2011;Supports Depth API
 Vivo;V2041;Supports Depth API
 Vivo;V2045;Supports Depth API
 Vivo;V2046;Supports Depth API
 Vivo;V2050;Supports Depth API
+Vivo;V2105;Supports Depth API
 Wiko;View 3 Pro;
 Xiaomi;Mi 8;
 Xiaomi;Mi 8 SE;
@@ -419,6 +434,7 @@ Xiaomi;Mi Note 10;
 Xiaomi;Mi Note 10 Lite;
 Xiaomi;Mi Note 11 Lite;
 Xiaomi;Mi Note 11 Lite 5G;Supports Depth API
+Xiaomi;Pad 5;Supports Depth API
 Xiaomi;Pocophone F1;Supports Depth API
 Xiaomi;POCO X2;
 Xiaomi;POCO X3;
@@ -449,6 +465,7 @@ Xiaomi;Redmi Note 10 5G;Supports Depth API
 Xiaomi;Redmi Note 10 Pro;
 Xiaomi;Redmi Note 10 Pro Max;Supports Depth API
 Zebra;"ET51s 8"" Enterprise Tablet";Supports Depth API
+Zebra;"ET51 10"" Enterprise Tablet";Supports Depth API
 Zebra;"ET56s 8"" Enterprise Tablet";Supports Depth API
 Zebra;"ET56 10"" Enterprise Tablet";Supports Depth API
 Zebra;TC21 WLAN Touch Computer;

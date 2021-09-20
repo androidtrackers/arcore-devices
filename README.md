@@ -1,5 +1,5 @@
 # Google ARCore Supported devices
-Last sync is 2021-08-06
+Last sync is 2021-09-20
 
 https://developers.google.com/ar/discover/supported-devices
 
@@ -67,12 +67,15 @@ https://developers.google.com/ar/discover/supported-devices
 |Infinix Mobile|Note 6|
 |Infinix Mobile|Note 7|
 |Infinix Mobile|Zero 8|
+|Infinix Mobile|Zero X Neo|
 |Infinix Mobile|Note 10 Pro|
 |Kyocera|Torque 5G|
 |Kyocera|Torque G04|
+|Kyocera|DuraForce Ultra 5G|
 |Lenovo|Lenovo K13 Note|
 |Lenovo|Lenovo Tab P11 Pro|
 |Lenovo|Lenovo Tab P11 5G|
+|Lenovo|Lenovo Tab P12 Pro|
 |Lenovo|Lenovo Yoga Tab 11|
 |LitByLeia|Lume Pad|
 |LG|G6|
@@ -137,11 +140,15 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g(40) fusion|
 |Motorola|moto g(10)|
 |Motorola|moto g(50)|
+|Motorola|moto g(50) 5G|
 |Motorola|moto g(60)|
+|Motorola|moto g(60)s|
 |Motorola|moto g(100)|
 |Motorola|motorola edge|
 |Motorola|motorola edge s|
 |Motorola|motorola edge plus|
+|Motorola|motorola edge 20|
+|Motorola|motorola edge 20 lite|
 |Motorola|motorola one|
 |Motorola|motorola one 5G|
 |Motorola|motorola one action|
@@ -266,6 +273,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A51 5G|
 |Samsung|Galaxy A52|
 |Samsung|Galaxy A52 5G|
+|Samsung|Galaxy A52s 5G|
 |Samsung|Galaxy A60|
 |Samsung|Galaxy A70|
 |Samsung|Galaxy A70s|
@@ -279,6 +287,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy F62|
 |Samsung|Galaxy Fold|
 |Samsung|Galaxy Z Fold2 5G|
+|Samsung|Galaxy Z Fold3 5G|
 |Samsung|Galaxy J5 (2017)|
 |Samsung|Galaxy J5 Pro|
 |Samsung|Galaxy J7 (2017)|
@@ -301,6 +310,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Note20 5G|
 |Samsung|Galaxy Note20 Ultra 5G|
 |Samsung|Galaxy Quantum2|
+|Samsung|Galaxy Wide5|
 |Samsung|Galaxy S7|
 |Samsung|Galaxy S7 edge|
 |Samsung|Galaxy S8|
@@ -327,6 +337,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S21 5G|
 |Samsung|Galaxy S21+ 5G|
 |Samsung|Galaxy S21 Ultra 5G|
+|Samsung|Galaxy S21 Fan Edition|
 |Samsung|Galaxy Tab A7|
 |Samsung|Galaxy Tab Active 3|
 |Samsung|Galaxy Tab Active Pro|
@@ -337,10 +348,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S6 Lite|
 |Samsung|Galaxy Tab S7|
 |Samsung|Galaxy Tab S7+|
-|Samsung|Galaxy Tab S7+ Lite|
+|Samsung|Galaxy Tab S7 FE|
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
 |Samsung|Galaxy Z Flip 5G|
+|Samsung|Galaxy Z Flip2 5G|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS R5G|
 |Sharp|AQUOS R6|
@@ -379,6 +391,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Tecno|Camon 16 Pro|
 |Tecno|Camon 17 Pro|
 |Tecno|Phantom 9|
+|Tecno|Phantom X|
 |Tecno|Phantom X Pro|
 |Tecno|Pova 2|
 |Umx(Ultimate Mobile Experience)|U3AR|
@@ -398,11 +411,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50 Pro|
 |Vivo|X50e 5G|
 |Vivo|X60 Pro|
+|Vivo|X60 Pro+|
 |Vivo|I2011|
 |Vivo|V2041|
 |Vivo|V2045|
 |Vivo|V2046|
 |Vivo|V2050|
+|Vivo|V2105|
 |Wiko|View 3 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
@@ -426,6 +441,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi Note 10 Lite|
 |Xiaomi|Mi Note 11 Lite|
 |Xiaomi|Mi Note 11 Lite 5G|
+|Xiaomi|Pad 5|
 |Xiaomi|Pocophone F1|
 |Xiaomi|POCO X2|
 |Xiaomi|POCO X3|
@@ -456,6 +472,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 10 Pro|
 |Xiaomi|Redmi Note 10 Pro Max|
 |Zebra|"ET51s 8"" Enterprise Tablet"|
+|Zebra|"ET51 10"" Enterprise Tablet"|
 |Zebra|"ET56s 8"" Enterprise Tablet"|
 |Zebra|"ET56 10"" Enterprise Tablet"|
 |Zebra|TC21 WLAN Touch Computer|
