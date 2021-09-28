@@ -11,8 +11,8 @@ import pandas as pd
 
 TODAY = str(date.today())
 TG_CHAT = "@ARCoreDevices"
-BOT_TOKEN = environ['bottoken']
-GIT_OAUTH_TOKEN = environ['XFU']
+BOT_TOKEN = environ['BOTTOKEN']
+GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
 CHANGES = []
 
 
