@@ -1,11 +1,10 @@
 # Google ARCore Supported devices
-Last sync is 2021-09-21
+Last sync is 2022-08-07
 
 https://developers.google.com/ar/discover/supported-devices
 
 |Brand|Device|
 |---|---|
-|Google|Any x86 or x86_64 based AVD|
 |Asus|ROG Phone|
 |Asus|ROG Phone II|
 |Asus|ROG Phone III|
@@ -15,8 +14,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Asus|Zenfone 8|
 |Asus|Zenfone AR|
 |Asus|Zenfone ARES|
+|Balmuda|Balmuda Phone|
 |Fujitsu|arrows 5G F-51A|
 |Fujitsu|arrows NX9 F-52A|
+|FCNT|arrows We A101FC|
+|FCNT|arrows We-F-51|
+|FCNT|arrows We FCG01|
 |General Mobile|GM 9 Plus|
 |Google|Nexus 5X|
 |Google|Nexus 6P|
@@ -33,6 +36,9 @@ https://developers.google.com/ar/discover/supported-devices
 |Google|Pixel 4a|
 |Google|Pixel 4a 5G|
 |Google|Pixel 5|
+|Google|Pixel 5a 5G|
+|Google|Pixel 6|
+|Google|Pixel 6 Pro|
 |HMD Global|Nokia 3.4|
 |HMD Global|Nokia 5.4|
 |HMD Global|Nokia 6 (2018)|
@@ -66,14 +72,31 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|Y9 2019|
 |Infinix Mobile|Note 6|
 |Infinix Mobile|Note 7|
+|Infinix Mobile|Zero 5G|
 |Infinix Mobile|Zero 8|
+|Infinix Mobile|Zero 8i|
+|Infinix Mobile|Zero X|
+|Infinix Mobile|Zero X Pro|
+|Infinix Mobile|Zero X Neo|
 |Infinix Mobile|Note 10 Pro|
+|Infinix Mobile|Note 11|
+|Infinix Mobile|Note 11 Pro|
+|Infinix Mobile|Note 11S|
+|Infinix Mobile|Note 12|
+|Infinix Mobile|Note 12 VIP|
 |Kyocera|Torque 5G|
 |Kyocera|Torque G04|
+|Kyocera|Duraforce Ultra 5G|
+|Kyocera|DuraSport 5G|
+|Kyocera|Android One S9|
+|Kyocera|DIGNO SANGA edition|
 |Lenovo|Lenovo K13 Note|
 |Lenovo|Lenovo Tab P11 Pro|
 |Lenovo|Lenovo Tab P11 5G|
+|Lenovo|Lenovo Tab P11 Plus|
 |Lenovo|Lenovo Yoga Tab 11|
+|Lenovo|Lenovo Tab P12 Pro|
+|Lenovo|Lenovo LAVIETab T12 12QHD1|
 |LitByLeia|Lume Pad|
 |LG|G6|
 |LG|G7 Fit|
@@ -127,21 +150,38 @@ https://developers.google.com/ar/discover/supported-devices
 |Motorola|moto g⁹ plus|
 |Motorola|moto g⁹ power|
 |Motorola|moto g 5G|
+|Motorola|moto g 5G (2022)|
 |Motorola|moto g power 2021|
 |Motorola|moto g power|
 |Motorola|moto g pro|
 |Motorola|moto g stylus|
 |Motorola|moto g stylus (2021)|
+|Motorola|moto g stylus (2022)|
+|Motorola|moto g stylus 5G (2022)|
 |Motorola|moto g stylus 5G|
 |Motorola|moto g(30)|
 |Motorola|moto g(40) fusion|
 |Motorola|moto g(10)|
 |Motorola|moto g(50)|
+|Motorola|moto g(50) 5G|
 |Motorola|moto g(60)|
+|Motorola|moto g(60)s|
 |Motorola|moto g(100)|
+|Motorola|moto g31|
+|Motorola|moto g51 5G|
+|Motorola|moto g52|
+|Motorola|moto g71 5G|
+|Motorola|moto g82 5G|
+|Motorola|moto g200 5G|
+|Motorola|motorola edge (2021)|
 |Motorola|motorola edge|
 |Motorola|motorola edge s|
 |Motorola|motorola edge plus|
+|Motorola|motorola edge plus (2022)|
+|Motorola|motorola edge 20 pro|
+|Motorola|motorola edge 20|
+|Motorola|motorola edge 20 lite|
+|Motorola|motorola edge 30|
 |Motorola|motorola one|
 |Motorola|motorola one 5G|
 |Motorola|motorola one action|
@@ -174,9 +214,16 @@ https://developers.google.com/ar/discover/supported-devices
 |OnePlus|OnePlus 9|
 |OnePlus|OnePlus 9 Pro|
 |OnePlus|OnePlus 9R|
+|OnePlus|OnePlus 9RT 5G|
+|OnePlus|OnePlus 10 Pro|
+|OnePlus|OnePlus 10 Pro 5G|
+|OnePlus|OnePlus 10R 5G|
 |OnePlus|OnePlus Nord|
 |OnePlus|OnePlus N10|
 |OnePlus|OnePlus Nord CE|
+|OnePlus|OnePlus Nord CE 2|
+|OnePlus|OnePlus Nord CE 2 Lite 5G|
+|OnePlus|OnePlus Nord2 5G|
 |OnePlus|OnePlus Nord N200 5G|
 |Oppo|A52|
 |Oppo|A72|
@@ -189,9 +236,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|F15|
 |Oppo|F17 Pro|
 |Oppo|F19 Pro+|
+|Oppo|F21 Pro 5G|
 |Oppo|Find X2|
 |Oppo|Find X2 Pro|
 |Oppo|Find X3 Pro|
+|Oppo|Find X5|
 |Oppo|K3|
 |Oppo|K5|
 |Oppo|R17 Pro|
@@ -213,9 +262,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno5 Pro 5G|
 |Oppo|Reno5 Pro+ 5G|
 |Oppo|Reno6 Pro+ 5G|
+|Oppo|Reno7 A|
+|Oppo|Reno7 5G|
+|Oppo|Reno7 Pro 5G|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno A|
 |Oppo|Reno Z|
+|Rakuten|Hand5G|
 |realme|5|
 |realme|5 Pro|
 |realme|6|
@@ -240,7 +293,11 @@ https://developers.google.com/ar/discover/supported-devices
 |realme|realme v15 5G|
 |realme|realme GT 5G|
 |realme|realme GT Neo|
+|realme|realme GT Explorer Master Edition|
 |realme|realme 8 5G|
+|realme|realme 9 5G|
+|realme|realme 9 Pro 5G|
+|realme|realme 9 Pro+|
 |Samsung|Galaxy A3 (2017)|
 |Samsung|Galaxy A5 (2017)|
 |Samsung|Galaxy A6 (2018)|
@@ -252,11 +309,13 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A20s|
 |Samsung|Galaxy A20e|
 |Samsung|Galaxy A22 5G|
+|Samsung|Galaxy A23|
 |Samsung|Galaxy A30|
 |Samsung|Galaxy A30s|
 |Samsung|Galaxy A31|
 |Samsung|Galaxy A32|
 |Samsung|Galaxy A32 5G|
+|Samsung|Galaxy A33 5G|
 |Samsung|Galaxy A40|
 |Samsung|Galaxy A41|
 |Samsung|Galaxy A42 5G|
@@ -266,6 +325,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A51 5G|
 |Samsung|Galaxy A52|
 |Samsung|Galaxy A52 5G|
+|Samsung|Galaxy A53 5G|
 |Samsung|Galaxy A60|
 |Samsung|Galaxy A70|
 |Samsung|Galaxy A70s|
@@ -275,6 +335,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy A80|
 |Samsung|Galaxy A90 5G|
 |Samsung|Galaxy F22|
+|Samsung|Galaxy F23 5G|
 |Samsung|Galaxy F41|
 |Samsung|Galaxy F62|
 |Samsung|Galaxy Fold|
@@ -285,10 +346,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy J7 Pro|
 |Samsung|Galaxy M20|
 |Samsung|Galaxy M21|
+|Samsung|Galaxy M23 5G|
 |Samsung|Galaxy M30s|
 |Samsung|Galaxy M31|
 |Samsung|Galaxy M31s|
 |Samsung|Galaxy M32|
+|Samsung|Galaxy M33 5G|
 |Samsung|Galaxy M51|
 |Samsung|Galaxy M62|
 |Samsung|Galaxy Note8|
@@ -327,7 +390,11 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S21 5G|
 |Samsung|Galaxy S21+ 5G|
 |Samsung|Galaxy S21 Ultra 5G|
+|Samsung|Galaxy S22 5G|
+|Samsung|Galaxy S22+ 5G|
+|Samsung|Galaxy S22 Ultra 5G|
 |Samsung|Galaxy Tab A7|
+|Samsung|Galaxy Tab A8|
 |Samsung|Galaxy Tab Active 3|
 |Samsung|Galaxy Tab Active Pro|
 |Samsung|Galaxy Tab S3|
@@ -338,12 +405,16 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy Tab S7|
 |Samsung|Galaxy Tab S7+|
 |Samsung|Galaxy Tab S7+ Lite|
+|Samsung|Galaxy Tab S8|
+|Samsung|Galaxy Tab S8+|
+|Samsung|Galaxy Tab S8 Ultra|
 |Samsung|Galaxy XCover Pro|
 |Samsung|Galaxy Z Flip|
 |Samsung|Galaxy Z Flip 5G|
 |Sharp|AQUOS R3|
 |Sharp|AQUOS R5G|
 |Sharp|AQUOS R6|
+|Sharp|AQUOS R7|
 |Sharp|AQUOS sense3|
 |Sharp|AQUOS sense3 basic|
 |Sharp|AQUOS sense3 plus|
@@ -352,11 +423,14 @@ https://developers.google.com/ar/discover/supported-devices
 |Sharp|AQUOS sense4 lite|
 |Sharp|AQUOS sense4 plus|
 |Sharp|AQUOS sense5G|
+|Sharp|AQUOS sense6|
 |Sharp|AQUOS zero2|
+|Sharp|AQUOS zero6|
 |Sharp|AQUOS zero5G basic|
 |Sharp|AQUOS zero5G basic DX|
 |Sharp|Leitz Phone1|
 |Sharp|S7|
+|Sony|Xperia Ace III|
 |Sony|Xperia XZ Premium|
 |Sony|Xperia XZ1|
 |Sony|Xperia XZ1 Compact|
@@ -368,19 +442,27 @@ https://developers.google.com/ar/discover/supported-devices
 |Sony|Xperia 1 Professional Edition|
 |Sony|Xperia 1 II|
 |Sony|Xperia 1 III|
+|Sony|Xperia 1 IV|
 |Sony|Xperia 5|
 |Sony|Xperia 5 II|
 |Sony|Xperia 5 III|
 |Sony|Xperia PRO|
+|Sony|Xperia PRO-I|
 |Sony|Xperia 10 III|
+|Sony|Xperia 10 IV|
 |TCL|10 5G UW|
+|Tecno|Camon 18P|
 |Tecno|Camon 12 Pro|
 |Tecno|Camon 16 Premier|
 |Tecno|Camon 16 Pro|
 |Tecno|Camon 17 Pro|
+|Tecno|Camon 18 Premier|
+|Tecno|Camon 19 Pro|
+|Tecno|Camon 19 Pro 5G|
 |Tecno|Phantom 9|
-|Tecno|Phantom X Pro|
+|Tecno|Phantom X|
 |Tecno|Pova 2|
+|Tecno|Pova 5G|
 |Umx(Ultimate Mobile Experience)|U3AR|
 |Vinsmart|Live 4|
 |Vinsmart|Aris Pro|
@@ -398,12 +480,22 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50 Pro|
 |Vivo|X50e 5G|
 |Vivo|X60 Pro|
+|Vivo|X80|
+|Vivo|X80 Pro|
 |Vivo|I2011|
 |Vivo|V2041|
 |Vivo|V2045|
 |Vivo|V2046|
 |Vivo|V2050|
+|Vivo|V2105|
+|Vivo|V2124|
+|Vivo|V2126|
+|Vivo|V2130|
 |Wiko|View 3 Pro|
+|Xiaomi|Xiaomi 11T|
+|Xiaomi|Xiaomi 12|
+|Xiaomi|Xiaomi 12X|
+|Xiaomi|Xiaomi 12 Pro|
 |Xiaomi|Mi 8|
 |Xiaomi|Mi 8 SE|
 |Xiaomi|Mi 9|
@@ -426,6 +518,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi Note 10 Lite|
 |Xiaomi|Mi Note 11 Lite|
 |Xiaomi|Mi Note 11 Lite 5G|
+|Xiaomi|Pad 5|
 |Xiaomi|Pocophone F1|
 |Xiaomi|POCO X2|
 |Xiaomi|POCO X3|
@@ -437,8 +530,10 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi K30|
 |Xiaomi|Redmi K30 Pro|
 |Xiaomi|Redmi K40|
+|Xiaomi|Redmi K40S|
 |Xiaomi|Redmi K40 Pro/Pro+|
 |Xiaomi|Redmi K40 Gaming|
+|Xiaomi|Redmi K50 5G|
 |Xiaomi|Redmi 10X 4G|
 |Xiaomi|Redmi Note 7|
 |Xiaomi|Redmi Note 7 Pro|
@@ -455,7 +550,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Redmi Note 10 5G|
 |Xiaomi|Redmi Note 10 Pro|
 |Xiaomi|Redmi Note 10 Pro Max|
+|Xiaomi|Redmi Note 11|
+|Xiaomi|Redmi Note 11 Pro 5G|
+|Xiaomi|Redmi Note 11 Pro+ 5G|
 |Zebra|"ET51s 8"" Enterprise Tablet"|
+|Zebra|"ET51L 10"" Enterprise Tablet"|
+|Zebra|"ET56L 10"" Enterprise Tablet"|
 |Zebra|"ET56s 8"" Enterprise Tablet"|
 |Zebra|"ET56 10"" Enterprise Tablet"|
 |Zebra|TC21 WLAN Touch Computer|
@@ -464,11 +564,16 @@ https://developers.google.com/ar/discover/supported-devices
 |Zebra|EC55 WWAN Enterprise Computer|
 |Zebra|TC52 WLAN Touch Computer|
 |Zebra|TC52x WLAN Touch Computer|
+|Zebra|TC52ax WLAN Touch Computer|
+|Zebra|TC53 WLAN Touch Computer|
 |Zebra|TC57 WWAN Touch Computer|
 |Zebra|TC57x WWAN Touch Computer|
+|Zebra|TC58 WWAN Touch Computer|
 |Zebra|TC72 WLAN Touch Computer|
 |Zebra|TC77 WWAN Touch Computer|
+|Zebra|MC20|
 |ZTE|Libero 5G|
+|ZTE|Libero 5G II|
 |Huawei|Honor 10|
 |Huawei|Honor Magic 2|
 |Huawei|Honor V20|
@@ -485,6 +590,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Huawei|P30 Pro|
 |Huawei|Porsche Design Mate RS|
 |Huawei|Porsche Design Mate 20 RS|
+|OnePlus|OnePlus Ace|
 |Oppo|A53 5G|
 |Oppo|A93 5G|
 |Oppo|Find X3|
@@ -493,6 +599,8 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|K5|
 |Oppo|K7x|
 |Oppo|K9 5G|
+|Oppo|K9x 5G|
+|Oppo|PFFM20|
 |Oppo|Reno|
 |Oppo|Reno 10x Zoom|
 |Oppo|Reno Ace|
@@ -507,9 +615,12 @@ https://developers.google.com/ar/discover/supported-devices
 |Oppo|Reno5 Pro 5G|
 |Oppo|Reno5 Pro+ 5G|
 |Oppo|Reno6 Pro+ 5G|
+|Oppo|Reno7 Pro 5G|
+|Oppo|Reno7 SE 5G|
 |realme|Q|
 |realme|Q2 Pro 5G|
 |realme|Q3 5G|
+|realme|Q3 Pro Play|
 |realme|X|
 |realme|X Lite|
 |realme|X2|
@@ -534,6 +645,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Samsung|Galaxy S10+ Exynos|
 |Samsung|Galaxy S10+ Qualcomm|
 |Samsung|Galaxy S10 5G|
+|Vivo|V2133A|
 |Vivo|iQOO|
 |Vivo|iQOO 5 5G|
 |Vivo|iQOO 5 Pro 5G|
@@ -547,6 +659,7 @@ https://developers.google.com/ar/discover/supported-devices
 |Vivo|X50 5G|
 |Vivo|X50 Pro|
 |Vivo|X50 Pro+|
+|Vivo|X80|
 |Vivo|V2046A|
 |Vivo|V2047A|
 |Vivo|V2056A|
@@ -558,9 +671,17 @@ https://developers.google.com/ar/discover/supported-devices
 |Xiaomi|Mi 8 SE|
 |Xiaomi|Mi 9|
 |Xiaomi|Mi 10 Ultra|
+|iPhone|iPhone 13|
+|iPhone|iPhone 13 mini|
+|iPhone|iPhone 13 Pro|
+|iPhone|iPhone 13 Pro Max|
+|iPhone|iPhone 12|
+|iPhone|iPhone 12 mini|
+|iPhone|iPhone 12 Pro|
+|iPhone|iPhone 12 Pro Max|
 |iPhone|iPhone 11|
-|iPhone|11 Pro|
-|iPhone|11 Pro Max|
+|iPhone|iPhone 11 Pro|
+|iPhone|iPhone 11 Pro Max|
 |iPhone|iPhone XR|
 |iPhone|iPhone XS and XS Max|
 |iPhone|iPhone X|
@@ -568,15 +689,26 @@ https://developers.google.com/ar/discover/supported-devices
 |iPhone|iPhone 7 and 7 Plus|
 |iPhone|iPhone 6S and 6S Plus|
 |iPhone|iPhone SE|
-|iPad|iPad Air 3rd Generation|
-|iPad|iPad mini 5th Generation|
+|iPhone|iPhone SE (2nd Generation)|
+|iPhone|iPhone SE (3rd Generation)|
+|iPad|iPad Air (3rd Generation)|
+|iPad|iPad Air (4th Generation)|
+|iPad|iPad Air (5th Generation)|
+|iPad|iPad mini (5th Generation)|
+|iPad|iPad mini (6th Generation)|
 |iPad|12.9-in. iPad Pro (1st Generation)|
 |iPad|12.9-in. iPad Pro (2nd Generation)|
 |iPad|12.9-in. iPad Pro (3rd Generation)|
-|iPad|11-in. iPad Pro|
+|iPad|12.9-in. iPad Pro (4th Generation)|
+|iPad|12.9-in. iPad Pro (5th Generation)|
+|iPad|11-in. iPad Pro (1st Generation)|
+|iPad|11-in. iPad Pro (2nd Generation)|
+|iPad|11-in. iPad Pro (3rd Generation)|
 |iPad|10.5-in. iPad Pro|
 |iPad|9.7-in. iPad Pro|
-|iPad|iPad (7th Generation)|
-|iPad|iPad (6th Generation)|
 |iPad|iPad (5th Generation)|
+|iPad|iPad (6th Generation)|
+|iPad|iPad (7th Generation)|
+|iPad|iPad (8th Generation)|
+|iPad|iPad (9th Generation)|
 |iPod|iPod touch (7th Generation)|
